@@ -5,3 +5,16 @@ Our interested field is ski market.
 
 
 I am interested in this field, because with vicissitudes of times
+
+
+
+
+
+
+
+Finding Data
+1. Where did you download the data (e.g., a web URL)?
+2. How was the data collected or generated? Make sure to explain who collected the data (not necessarily the same people that host the data), and who or what the data is about?
+3. How many observations (rows) are in your data?
+4. How many features (columns) are in the data?
+5. What questions (from above) can be answered using the data in this dataset?
