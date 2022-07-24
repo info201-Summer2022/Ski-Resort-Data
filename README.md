@@ -6,14 +6,19 @@ Our interested field is sports.
 
 2. What other examples of data driven project have you found related to this domain (share at least 3)?
 
-	The first one is ski market developing rate and its related factors, as well the forecasts.\\
-	The second one is ski gear and equipment market analysis and forecast.\\
-	The third one is how gear companies use big data to build skis.\\
+	The first one is ski market developing rate and its related factors, as well the forecasts.  
+	
+	The second one is ski gear and equipment market analysis and forecast.  
+	
+	The third one is how gear companies use big data to build skis.  
+	
 
 3. What data-driven questions do you hope to answer about this domain (share at least 3)?
 
-	What's the relation between number of the ski resort visitors and ski gear&equipment growth?\\
-	How does the ski market change since COVID-19?\\
-	Does Winter-Olympics affect ski market a lot?\\
+	What's the relation between number of the ski resort visitors and ski gear&equipment growth?  
+	
+	How does the ski market change since COVID-19?  
+	
+	Does Winter-Olympics affect ski market a lot?  
 
 I am interested in this field, because with vicissitudes of times
