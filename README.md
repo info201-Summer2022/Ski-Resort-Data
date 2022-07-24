@@ -16,5 +16,3 @@ Our interested field is sports.
 	What's the relation between number of the ski resort visitors and ski gear&equipment growth?  
 	How does the ski market change since COVID-19?  
 	Does Winter-Olympics affect ski market a lot?  
-
-I am interested in this field, because with vicissitudes of times
