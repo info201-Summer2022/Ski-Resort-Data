@@ -1,0 +1,907 @@
+Type,Bought_in,Date_of_purchase,Acquisition_mode,Schedule,Initial_day,Amount_of_days,Original_Resort,Hotel,Id,Selling_price,Total_price
+Season,Regular_season,2019-01-24,Package,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,Elton Hotel,WSP-19102,1950,2925.0
+Season,Regular_season,2019-01-22,On_site,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19122,1950,2925.0
+Season,Outside_season,2018-11-11,Online,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19131,1950,2925.0
+Season,Regular_season,2018-01-10,On_site,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19152,1950,2925.0
+Season,Regular_season,2018-01-31,Online,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19154,1950,2925.0
+Season,Outside_season,2017-11-06,Online,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19156,1950,2925.0
+Season,Outside_season,2018-05-05,Online,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19160,1950,2925.0
+Season,Regular_season,2018-12-18,Online,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19161,1950,2925.0
+Season,Regular_season,2018-11-24,Online,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19168,1950,2925.0
+Season,Regular_season,2018-01-28,Online,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19171,1950,2925.0
+Season,Regular_season,2018-02-23,Online,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19180,1950,2925.0
+Season,Outside_season,2018-09-05,Package,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,Elton Hotel,WSP-19184,1950,2925.0
+Season,Regular_season,2018-12-18,On_site,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19185,1950,2925.0
+Season,Regular_season,2018-01-19,Online,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19191,1950,2925.0
+Season,Regular_season,2018-12-16,Package,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,Elton Hotel,WSP-19201,1950,2925.0
+Season,Regular_season,2017-12-09,Online,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19205,1950,2925.0
+Season,Regular_season,2019-03-29,Package,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,Elton Hotel,WSP-19206,1950,2925.0
+Season,Regular_season,2019-01-17,Online,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19207,1950,2925.0
+Season,Regular_season,2019-01-24,Online,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19213,1950,2925.0
+Season,Regular_season,2018-02-02,Online,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19216,1950,2925.0
+Season,Regular_season,2018-12-10,Online,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19218,1950,2925.0
+Season,Regular_season,2019-03-14,Online,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19228,1950,2925.0
+Season,Regular_season,2017-11-24,Online,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19229,1950,2925.0
+Season,Regular_season,2019-03-25,Online,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19231,1950,2925.0
+Season,Regular_season,2019-03-15,Online,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19240,1950,2925.0
+Season,Outside_season,2017-11-12,Package,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,Ridossan Hotel,WSP-19242,1950,2925.0
+Season,Regular_season,2018-03-02,Online,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19254,1950,2925.0
+Season,Regular_season,2018-02-28,Online,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19255,1950,2925.0
+Season,Outside_season,2017-09-16,Package,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,Haiit Hotel,WSP-19260,1950,2925.0
+Season,Regular_season,2019-03-12,Package,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,Elton Hotel,WSP-19265,1950,2925.0
+Season,Regular_season,2018-03-27,On_site,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19279,1950,2925.0
+Season,Outside_season,2017-10-20,Package,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,Ridossan Hotel,WSP-19286,1950,2925.0
+Season,Regular_season,2018-01-18,Online,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19295,1950,2925.0
+Season,Regular_season,2018-01-28,Online,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19296,1950,2925.0
+Season,Outside_season,2018-09-12,Online,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19298,1950,2925.0
+Season,Regular_season,2018-02-09,Online,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19303,1950,2925.0
+Season,Regular_season,2018-11-30,On_site,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19307,1950,2925.0
+Season,Regular_season,2017-12-05,Package,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,OI Hotels,WSP-19309,1950,2925.0
+Season,Regular_season,2019-01-14,Online,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19314,1950,2925.0
+Season,Regular_season,2019-01-08,Online,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19316,1950,2925.0
+Season,Regular_season,2019-02-26,Package,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,OI Hotels,WSP-19321,1950,2925.0
+Season,Regular_season,2019-03-22,Package,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,Haiit Hotel,WSP-19328,1950,2925.0
+Season,Regular_season,2018-01-30,Online,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19330,1950,2925.0
+Season,Outside_season,2018-11-11,Package,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,Haiit Hotel,WSP-19340,1950,2925.0
+Season,Regular_season,2019-01-25,Package,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,OI Hotels,WSP-19342,1950,2925.0
+Season,Regular_season,2019-01-09,Package,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,Haiit Hotel,WSP-19351,1950,2925.0
+Season,Outside_season,2018-04-10,Online,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19356,1950,2925.0
+Season,Regular_season,2019-03-15,Online,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19357,1950,2925.0
+Season,Outside_season,2018-10-25,Online,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19358,1950,2925.0
+Season,Regular_season,2018-03-24,Online,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19360,1950,2925.0
+Season,Regular_season,2019-03-12,Package,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,Elton Hotel,WSP-19361,1950,2925.0
+Season,Regular_season,2018-11-30,On_site,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19365,1950,2925.0
+Season,Outside_season,2017-05-07,Online,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19367,1950,2925.0
+Season,Regular_season,2017-12-10,Package,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,Haiit Hotel,WSP-19375,1950,2925.0
+Season,Outside_season,2018-08-20,Online,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19379,1950,2925.0
+Season,Regular_season,2017-11-21,Online,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19380,1950,2925.0
+Season,Regular_season,2019-02-23,Package,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,Elton Hotel,WSP-19397,1950,2925.0
+Season,Regular_season,2019-03-29,Online,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19398,1950,2925.0
+Season,Regular_season,2018-02-07,Package,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,Elton Hotel,WSP-19420,1950,2925.0
+Season,Regular_season,2017-12-03,Package,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,Elton Hotel,WSP-19423,1950,2925.0
+Season,Regular_season,2018-02-14,Package,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,OI Hotels,WSP-19427,1950,2925.0
+Season,Regular_season,2018-01-17,Package,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,Haiit Hotel,WSP-19432,1950,2925.0
+Season,Regular_season,2018-02-25,Package,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,Elton Hotel,WSP-19441,1950,2925.0
+Season,Regular_season,2019-01-07,Package,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,OI Hotels,WSP-19455,1950,2925.0
+Season,Regular_season,2019-03-28,Online,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19465,1950,2925.0
+Season,Regular_season,2018-03-11,Online,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19466,1950,2925.0
+Season,Regular_season,2017-11-15,Online,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19467,1950,2925.0
+Season,Regular_season,2018-11-24,On_site,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19504,1950,2925.0
+Season,Regular_season,2019-01-13,Online,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19506,1950,2925.0
+Season,Regular_season,2019-03-06,Online,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19507,1950,2925.0
+Season,Regular_season,2019-03-26,Package,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,Elton Hotel,WSP-19516,1950,2925.0
+Season,Regular_season,2019-03-10,Online,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19517,1950,2925.0
+Season,Regular_season,2018-02-13,Online,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19520,1950,2925.0
+Season,Regular_season,2018-01-28,On_site,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19521,1950,2925.0
+Season,Regular_season,2018-11-30,Online,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19533,1950,2925.0
+Season,Regular_season,2018-01-20,Online,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19535,1950,2925.0
+Season,Regular_season,2019-02-13,Online,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19541,1950,2925.0
+Season,Regular_season,2017-11-16,Package,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,Ski Inn,WSP-19543,1950,2925.0
+Season,Regular_season,2018-01-26,Online,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19557,1950,2925.0
+Season,Regular_season,2018-03-20,Online,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19558,1950,2925.0
+Season,Regular_season,2017-12-16,Online,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19560,1950,2925.0
+Season,Regular_season,2019-01-25,Package,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,OI Hotels,WSP-19571,1950,2925.0
+Season,Regular_season,2018-03-28,Online,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19583,1950,2925.0
+Season,Regular_season,2018-01-11,Online,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19589,1950,2925.0
+Season,Regular_season,2017-11-16,Online,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19591,1950,2925.0
+Season,Outside_season,2018-07-27,Package,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,Haiit Hotel,WSP-19595,1950,2925.0
+Season,Outside_season,2018-06-04,Online,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19596,1950,2925.0
+Season,Outside_season,2017-06-06,Online,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19598,1950,2925.0
+Season,Outside_season,2017-11-08,Online,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19601,1950,2925.0
+Season,Regular_season,2019-01-14,Package,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,Ridossan Hotel,WSP-19602,1950,2925.0
+Season,Regular_season,2018-01-06,Package,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,Elton Hotel,WSP-19605,1950,2925.0
+Season,Outside_season,2017-07-31,Package,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,Haiit Hotel,WSP-19607,1950,2925.0
+Season,Regular_season,2018-03-07,Online,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19613,1950,2925.0
+Season,Regular_season,2018-02-16,Online,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19614,1950,2925.0
+Season,Regular_season,2019-01-27,Package,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,Ridossan Hotel,WSP-19630,1950,2925.0
+Season,Regular_season,2019-01-27,Online,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19631,1950,2925.0
+Season,Regular_season,2019-03-09,Online,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19638,1950,2925.0
+Season,Regular_season,2017-12-25,Online,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19647,1950,2925.0
+Season,Regular_season,2018-01-14,Online,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19651,1950,2925.0
+Season,Regular_season,2018-01-12,Online,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19652,1950,2925.0
+Season,Regular_season,2017-12-20,Package,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,Elton Hotel,WSP-19659,1950,2925.0
+Season,Regular_season,2018-12-30,Package,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,Ridossan Hotel,WSP-19667,1950,2925.0
+Season,Outside_season,2017-05-23,Online,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19670,1950,2925.0
+Season,Regular_season,2018-12-22,On_site,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19671,1950,2925.0
+Season,Regular_season,2018-02-14,Online,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19672,1950,2925.0
+Season,Outside_season,2017-10-21,Package,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,Elton Hotel,WSP-19679,1950,2925.0
+Season,Regular_season,2019-03-02,Online,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19680,1950,2925.0
+Season,Regular_season,2018-12-11,Package,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,OI Hotels,WSP-19690,1950,2925.0
+Season,Outside_season,2017-09-21,On_site,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19720,1950,2925.0
+Season,Regular_season,2017-12-03,Online,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19730,1950,2925.0
+Season,Regular_season,2019-01-11,Package,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,Haiit Hotel,WSP-19735,1950,2925.0
+Season,Regular_season,2019-03-02,Online,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19755,1950,2925.0
+Season,Regular_season,2018-12-10,Package,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,Elton Hotel,WSP-19757,1950,2925.0
+Season,Regular_season,2019-01-26,Package,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,Elton Hotel,WSP-19763,1950,2925.0
+Season,Regular_season,2018-03-08,Online,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19768,1950,2925.0
+Season,Regular_season,2017-12-12,Online,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19769,1950,2925.0
+Season,Regular_season,2019-03-02,Package,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,Elton Hotel,WSP-19794,1950,2925.0
+Season,Regular_season,2018-01-11,Online,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19796,1950,2925.0
+Season,Regular_season,2019-02-04,Package,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,Elton Hotel,WSP-19801,1950,2925.0
+Season,Regular_season,2019-03-31,Online,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19806,1950,2925.0
+Season,Regular_season,2018-02-06,Package,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,Elton Hotel,WSP-19814,1950,2925.0
+Season,Regular_season,2019-02-25,Online,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19819,1950,2925.0
+Season,Regular_season,2019-03-12,Online,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19821,1950,2925.0
+Season,Outside_season,2017-10-23,Online,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19824,1950,2925.0
+Season,Regular_season,2018-12-20,Online,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19831,1950,2925.0
+Season,Outside_season,2018-10-28,Online,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19837,1950,2925.0
+Season,Outside_season,2017-05-21,Online,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19854,1950,2925.0
+Season,Regular_season,2018-12-19,Package,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,Ridossan Hotel,WSP-19861,1950,2925.0
+Season,Regular_season,2018-03-02,Online,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19865,1950,2925.0
+Season,Outside_season,2018-10-26,Package,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,Haiit Hotel,WSP-19871,1950,2925.0
+Season,Regular_season,2018-12-22,Package,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,Haiit Hotel,WSP-19882,1950,2925.0
+Season,Regular_season,2019-03-21,On_site,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19885,1950,2925.0
+Season,Regular_season,2018-11-24,Online,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19888,1950,2925.0
+Season,Outside_season,2018-10-27,Online,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19895,1950,2925.0
+Season,Regular_season,2019-01-22,Online,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19910,1950,2925.0
+Season,Regular_season,2017-12-21,Online,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19917,1950,2925.0
+Season,Regular_season,2019-01-25,Online,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19922,1950,2925.0
+Season,Regular_season,2019-01-13,On_site,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19926,1950,2925.0
+Season,Regular_season,2019-01-06,Online,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19928,1950,2925.0
+Season,Outside_season,2018-09-13,Online,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19936,1950,2925.0
+Season,Regular_season,2018-12-25,Online,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19948,1950,2925.0
+Season,Regular_season,2019-01-09,Online,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19950,1950,2925.0
+Season,Regular_season,2019-03-31,Package,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,Elton Hotel,WSP-19952,1950,2925.0
+Season,Outside_season,2018-10-18,Online,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19963,1950,2925.0
+Season,Regular_season,2017-11-21,Online,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19965,1950,2925.0
+Season,Regular_season,2019-01-06,Package,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,Elton Hotel,WSP-19970,1950,2925.0
+Season,Outside_season,2017-08-31,On_site,Extended_Hour,2017-11-15,Unlimited,Valle Silbador,False,WSP-19986,1950,2925.0
+Season,Outside_season,2018-04-03,On_site,Extended_Hour,2018-11-15,Unlimited,Valle Silbador,False,WSP-19987,1950,2925.0
+Daily,Regular_season,2018-11-29,Online,Full_day,2018-11-27,9,Valle Silbador,False,WSP-19098,1080,1620.0
+Daily,Regular_season,2018-01-05,Package,Full_day,2018-02-17,9,Valle Silbador,Ridossan Hotel,WSP-19104,900,1350.0
+Daily,Regular_season,2018-12-05,Package,Half_day,2018-12-23,9,Valle Silbador,OI Hotels,WSP-19128,945,1417.5
+Daily,Outside_season,2018-06-26,Online,Half_day,2018-06-02,9,Valle Silbador,False,WSP-19130,1080,1620.0
+Daily,Regular_season,2018-12-17,Online,Full_day,2019-03-14,9,Valle Silbador,False,WSP-19133,1080,1620.0
+Daily,Regular_season,2018-12-26,On_site,Full_day,2018-12-27,9,Valle Silbador,False,WSP-19148,1080,1620.0
+Daily,Outside_season,2018-04-26,Package,Full_day,2018-07-08,9,Valle Silbador,Ski Inn,WSP-19150,675,1012.5
+Daily,Outside_season,2018-06-30,Online,Extended_Hour,2018-05-01,9,Valle Silbador,False,WSP-19158,1080,1620.0
+Red HEROIC,Regular_season,2018-12-30,Red HEROIC,Full_day,2019-02-01,9,Montaña Panadero,False,WSP-19172,1260,1890.0
+Daily,Regular_season,2019-01-28,Online,Full_day,2019-03-17,9,Valle Silbador,False,WSP-19175,1080,1620.0
+Red HEROIC,Regular_season,2018-01-26,Red HEROIC,Full_day,2018-01-24,9,Puente Roto,False,WSP-19186,1260,1890.0
+Daily,Regular_season,2018-01-15,Online,Full_day,2018-02-09,9,Valle Silbador,False,WSP-19188,1080,1620.0
+Daily,Regular_season,2017-12-14,Package,Full_day,2017-12-09,9,Valle Silbador,Ski Inn,WSP-19192,675,1012.5
+Daily,Regular_season,2017-11-30,Online,Full_day,2018-03-07,9,Valle Silbador,False,WSP-19193,1080,1620.0
+Red HEROIC,Regular_season,2018-12-08,Red HEROIC,Full_day,2019-02-01,9,Montaña Panadero,False,WSP-19198,1260,1890.0
+Red HEROIC,Outside_season,2018-11-13,Red HEROIC,Full_day,2018-06-15,9,Puente Roto,False,WSP-19202,1260,1890.0
+Daily,Outside_season,2017-05-16,Package,Full_day,2017-04-02,9,Valle Silbador,Elton Hotel,WSP-19245,990,1485.0
+Daily,Regular_season,2019-02-11,Package,Full_day,2019-02-02,9,Valle Silbador,Ridossan Hotel,WSP-19280,900,1350.0
+Red HEROIC,Regular_season,2017-11-22,Red HEROIC,Full_day,2018-03-19,9,Cresta Velo,False,WSP-19282,1260,1890.0
+Daily,Regular_season,2018-02-15,Online,Full_day,2018-03-16,9,Valle Silbador,False,WSP-19290,1080,1620.0
+Red HEROIC,Outside_season,2018-05-19,Red HEROIC,Full_day,2018-04-19,9,Puente Roto,False,WSP-19310,1260,1890.0
+Daily,Regular_season,2019-02-20,Online,Extended_Hour,2019-03-04,9,Valle Silbador,False,WSP-19322,1080,1620.0
+Daily,Regular_season,2018-02-09,On_site,Extended_Hour,2018-03-17,9,Valle Silbador,False,WSP-19329,1080,1620.0
+Daily,Regular_season,2018-03-04,Package,Half_day,2018-03-10,9,Valle Silbador,Elton Hotel,WSP-19336,990,1485.0
+Daily,Regular_season,2019-03-22,Online,Full_day,2019-03-14,9,Valle Silbador,False,WSP-19369,1080,1620.0
+Red HEROIC,Regular_season,2018-12-30,Red HEROIC,Full_day,2018-12-27,9,Montaña Panadero,False,WSP-19370,1260,1890.0
+Daily,Regular_season,2019-01-22,On_site,Half_day,2019-01-20,9,Valle Silbador,False,WSP-19391,1080,1620.0
+Daily,Regular_season,2019-03-26,On_site,Half_day,2019-03-21,9,Valle Silbador,False,WSP-19393,1080,1620.0
+Daily,Regular_season,2019-03-25,Online,Full_day,2019-03-17,9,Valle Silbador,False,WSP-19394,1080,1620.0
+Daily,Outside_season,2018-06-10,Package,Full_day,2018-07-29,9,Valle Silbador,Ridossan Hotel,WSP-19395,900,1350.0
+Daily,Regular_season,2018-11-25,Online,Half_day,2019-01-24,9,Valle Silbador,False,WSP-19407,1080,1620.0
+Daily,Regular_season,2018-02-22,Online,Full_day,2018-02-24,9,Valle Silbador,False,WSP-19412,1080,1620.0
+Daily,Regular_season,2019-01-09,Package,Half_day,2019-02-23,9,Valle Silbador,Haiit Hotel,WSP-19418,945,1417.5
+Daily,Regular_season,2018-12-01,Online,Full_day,2019-01-12,9,Valle Silbador,False,WSP-19422,1080,1620.0
+Daily,Regular_season,2019-03-21,Online,Extended_Hour,2019-03-15,9,Valle Silbador,False,WSP-19437,1080,1620.0
+Daily,Regular_season,2017-12-11,On_site,Full_day,2018-01-13,9,Valle Silbador,False,WSP-19447,1080,1620.0
+Red HEROIC,Regular_season,2019-03-02,Red HEROIC,Full_day,2019-03-02,9,Puente Roto,False,WSP-19456,1260,1890.0
+Red HEROIC,Regular_season,2017-11-24,Red HEROIC,Full_day,2017-11-17,9,Ski Comanche,False,WSP-19460,1260,1890.0
+Daily,Regular_season,2019-01-22,Package,Full_day,2019-02-26,9,Valle Silbador,Ridossan Hotel,WSP-19487,900,1350.0
+Daily,Regular_season,2018-03-06,Online,Half_day,2018-03-08,9,Valle Silbador,False,WSP-19491,1080,1620.0
+Daily,Regular_season,2019-01-23,Package,Full_day,2019-01-21,9,Valle Silbador,Elton Hotel,WSP-19549,990,1485.0
+Daily,Outside_season,2018-06-18,Online,Full_day,2018-06-28,9,Valle Silbador,False,WSP-19552,1080,1620.0
+Daily,Regular_season,2018-11-22,Online,Full_day,2018-11-26,9,Valle Silbador,False,WSP-19572,1080,1620.0
+Red HEROIC,Regular_season,2019-03-24,Red HEROIC,Full_day,2019-03-20,9,Montaña Panadero,False,WSP-19575,1260,1890.0
+Daily,Regular_season,2019-02-14,Online,Full_day,2019-03-21,9,Valle Silbador,False,WSP-19579,1080,1620.0
+Daily,Regular_season,2019-03-01,Online,Full_day,2019-03-21,9,Valle Silbador,False,WSP-19600,1080,1620.0
+Red HEROIC,Regular_season,2019-01-31,Red HEROIC,Full_day,2019-02-22,9,Montaña Panadero,False,WSP-19604,1260,1890.0
+Daily,Regular_season,2018-02-23,Online,Full_day,2018-03-13,9,Valle Silbador,False,WSP-19619,1080,1620.0
+Red HEROIC,Regular_season,2018-03-16,Red HEROIC,Full_day,2018-03-07,9,Cresta Velo,False,WSP-19621,1260,1890.0
+Daily,Regular_season,2018-11-16,Online,Full_day,2018-12-10,9,Valle Silbador,False,WSP-19646,1080,1620.0
+Daily,Regular_season,2018-02-09,Online,Half_day,2018-02-24,9,Valle Silbador,False,WSP-19649,1080,1620.0
+Daily,Regular_season,2019-01-12,On_site,Extended_Hour,2019-02-24,9,Valle Silbador,False,WSP-19658,1080,1620.0
+Red HEROIC,Regular_season,2018-01-13,Red HEROIC,Full_day,2018-01-23,9,Puente Roto,False,WSP-19664,1260,1890.0
+Daily,Regular_season,2018-02-17,Package,Full_day,2018-03-18,9,Valle Silbador,Ridossan Hotel,WSP-19689,900,1350.0
+Daily,Regular_season,2017-11-25,Online,Full_day,2018-01-23,9,Valle Silbador,False,WSP-19694,1080,1620.0
+Daily,Outside_season,2018-09-18,On_site,Half_day,2018-07-29,9,Valle Silbador,False,WSP-19696,1080,1620.0
+Red HEROIC,Regular_season,2017-12-03,Red HEROIC,Full_day,2018-03-12,9,Cresta Velo,False,WSP-19707,1260,1890.0
+Daily,Regular_season,2017-12-23,Online,Extended_Hour,2018-01-07,9,Valle Silbador,False,WSP-19708,1080,1620.0
+Red HEROIC,Regular_season,2019-02-16,Red HEROIC,Full_day,2019-02-21,9,Ski Comanche,False,WSP-19712,1260,1890.0
+Daily,Outside_season,2018-04-07,Package,Full_day,2018-04-27,9,Valle Silbador,Elton Hotel,WSP-19714,990,1485.0
+Daily,Regular_season,2018-03-08,On_site,Full_day,2018-03-12,9,Valle Silbador,False,WSP-19717,1080,1620.0
+Daily,Regular_season,2018-03-18,Online,Half_day,2018-03-12,9,Valle Silbador,False,WSP-19741,1080,1620.0
+Red HEROIC,Outside_season,2018-04-09,Red HEROIC,Full_day,2018-04-09,9,Montaña Panadero,False,WSP-19743,1260,1890.0
+Daily,Regular_season,2017-11-28,Online,Full_day,2017-12-07,9,Valle Silbador,False,WSP-19751,1080,1620.0
+Daily,Outside_season,2017-06-26,Online,Full_day,2017-04-16,9,Valle Silbador,False,WSP-19759,1080,1620.0
+Daily,Regular_season,2018-03-16,Online,Half_day,2018-03-15,9,Valle Silbador,False,WSP-19782,1080,1620.0
+Daily,Regular_season,2019-02-01,Online,Half_day,2019-02-08,9,Valle Silbador,False,WSP-19787,1080,1620.0
+Daily,Regular_season,2018-11-16,Online,Half_day,2019-01-10,9,Valle Silbador,False,WSP-19791,1080,1620.0
+Daily,Outside_season,2018-08-29,Package,Full_day,2018-04-07,9,Valle Silbador,Elton Hotel,WSP-19810,990,1485.0
+Daily,Outside_season,2017-07-25,On_site,Half_day,2017-04-24,9,Valle Silbador,False,WSP-19817,1080,1620.0
+Daily,Outside_season,2018-04-14,Online,Full_day,2018-05-07,9,Valle Silbador,False,WSP-19822,1080,1620.0
+Daily,Regular_season,2018-01-23,Online,Full_day,2018-02-18,9,Valle Silbador,False,WSP-19823,1080,1620.0
+Daily,Outside_season,2018-05-23,Package,Full_day,2018-04-29,9,Valle Silbador,Ridossan Hotel,WSP-19833,900,1350.0
+Daily,Regular_season,2018-11-30,Package,Full_day,2018-12-27,9,Valle Silbador,Elton Hotel,WSP-19838,990,1485.0
+Red HEROIC,Regular_season,2019-01-14,Red HEROIC,Full_day,2019-03-23,9,Cresta Velo,False,WSP-19859,1260,1890.0
+Daily,Outside_season,2018-09-19,Package,Full_day,2018-07-15,9,Valle Silbador,Elton Hotel,WSP-19878,990,1485.0
+Daily,Regular_season,2018-11-26,Package,Full_day,2019-03-06,9,Valle Silbador,Elton Hotel,WSP-19890,990,1485.0
+Daily,Regular_season,2019-01-29,Online,Extended_Hour,2019-03-16,9,Valle Silbador,False,WSP-19902,1080,1620.0
+Red HEROIC,Regular_season,2019-03-27,Red HEROIC,Full_day,2019-03-19,9,Ski Comanche,False,WSP-19903,1260,1890.0
+Daily,Outside_season,2017-06-05,On_site,Full_day,2017-08-03,9,Valle Silbador,False,WSP-19918,1080,1620.0
+Red HEROIC,Outside_season,2018-06-07,Red HEROIC,Full_day,2018-06-12,9,Cresta Velo,False,WSP-19919,1260,1890.0
+Daily,Regular_season,2018-11-23,Package,Full_day,2019-02-25,9,Valle Silbador,Haiit Hotel,WSP-19920,945,1417.5
+Red HEROIC,Regular_season,2018-12-15,Red HEROIC,Full_day,2019-01-30,9,Ski Comanche,False,WSP-19924,1260,1890.0
+Daily,Outside_season,2018-06-10,Package,Full_day,2018-06-04,9,Valle Silbador,Elton Hotel,WSP-19944,990,1485.0
+Red HEROIC,Regular_season,2018-02-20,Red HEROIC,Full_day,2018-03-19,9,Cresta Velo,False,WSP-19972,1260,1890.0
+Daily,Regular_season,2019-03-24,Online,Half_day,2019-03-17,9,Valle Silbador,False,WSP-19985,1080,1620.0
+Daily,Regular_season,2017-11-30,On_site,Full_day,2018-03-06,9,Valle Silbador,False,WSP-19992,1080,1620.0
+Daily,Outside_season,2018-04-05,On_site,Extended_Hour,2018-04-11,8,Valle Silbador,False,WSP-19126,960,1440.0
+Red HEROIC,Regular_season,2019-02-07,Red HEROIC,Full_day,2019-02-19,8,Ski Comanche,False,WSP-19135,1120,1680.0
+Daily,Outside_season,2018-07-02,Online,Full_day,2018-06-10,8,Valle Silbador,False,WSP-19146,960,1440.0
+Daily,Outside_season,2017-09-20,Package,Full_day,2017-04-06,8,Valle Silbador,Haiit Hotel,WSP-19173,840,1260.0
+Red HEROIC,Regular_season,2019-03-08,Red HEROIC,Full_day,2019-03-12,8,Montaña Panadero,False,WSP-19194,1120,1680.0
+Red HEROIC,Regular_season,2019-01-14,Red HEROIC,Full_day,2019-02-02,8,Puente Roto,False,WSP-19200,1120,1680.0
+Daily,Regular_season,2018-12-30,Online,Full_day,2019-01-29,8,Valle Silbador,False,WSP-19209,960,1440.0
+Daily,Regular_season,2018-12-04,Online,Half_day,2018-12-25,8,Valle Silbador,False,WSP-19212,960,1440.0
+Daily,Regular_season,2017-11-20,Online,Full_day,2017-11-19,8,Valle Silbador,False,WSP-19217,960,1440.0
+Daily,Regular_season,2018-01-21,Package,Full_day,2018-02-02,8,Valle Silbador,Ridossan Hotel,WSP-19223,800,1200.0
+Daily,Regular_season,2019-02-17,Online,Full_day,2019-03-23,8,Valle Silbador,False,WSP-19230,960,1440.0
+Red HEROIC,Outside_season,2018-07-18,Red HEROIC,Full_day,2018-05-05,8,Montaña Panadero,False,WSP-19234,1120,1680.0
+Red HEROIC,Regular_season,2018-02-10,Red HEROIC,Full_day,2018-03-15,8,Cresta Velo,False,WSP-19274,1120,1680.0
+Red HEROIC,Regular_season,2019-01-26,Red HEROIC,Full_day,2019-02-22,8,Montaña Panadero,False,WSP-19289,1120,1680.0
+Daily,Regular_season,2018-01-22,Online,Full_day,2018-02-13,8,Valle Silbador,False,WSP-19300,960,1440.0
+Daily,Outside_season,2017-08-03,Online,Full_day,2017-04-14,8,Valle Silbador,False,WSP-19315,960,1440.0
+Daily,Regular_season,2018-03-02,Online,Full_day,2018-02-22,8,Valle Silbador,False,WSP-19324,960,1440.0
+Daily,Regular_season,2019-01-03,Package,Half_day,2019-02-10,8,Valle Silbador,Ridossan Hotel,WSP-19332,800,1200.0
+Daily,Regular_season,2018-03-03,Online,Half_day,2018-03-23,8,Valle Silbador,False,WSP-19344,960,1440.0
+Daily,Outside_season,2017-08-20,Online,Full_day,2017-07-11,8,Valle Silbador,False,WSP-19355,960,1440.0
+Red HEROIC,Regular_season,2019-01-24,Red HEROIC,Full_day,2019-02-02,8,Cresta Velo,False,WSP-19364,1120,1680.0
+Daily,Regular_season,2019-02-28,Package,Full_day,2019-02-27,8,Valle Silbador,Elton Hotel,WSP-19376,880,1320.0
+Red HEROIC,Regular_season,2018-12-19,Red HEROIC,Full_day,2019-01-29,8,Montaña Panadero,False,WSP-19377,1120,1680.0
+Daily,Regular_season,2019-03-30,Package,Full_day,2019-03-23,8,Valle Silbador,Elton Hotel,WSP-19388,880,1320.0
+Daily,Regular_season,2019-01-08,Online,Full_day,2019-03-07,8,Valle Silbador,False,WSP-19392,960,1440.0
+Daily,Regular_season,2017-11-28,Package,Full_day,2018-01-03,8,Valle Silbador,Elton Hotel,WSP-19402,880,1320.0
+Red HEROIC,Outside_season,2017-11-06,Red HEROIC,Full_day,2017-07-09,8,Cresta Velo,False,WSP-19415,1120,1680.0
+Red HEROIC,Outside_season,2018-10-24,Red HEROIC,Full_day,2018-05-16,8,Ski Comanche,False,WSP-19417,1120,1680.0
+Daily,Regular_season,2019-03-21,Online,Full_day,2019-03-14,8,Valle Silbador,False,WSP-19428,960,1440.0
+Daily,Regular_season,2018-12-05,Online,Full_day,2019-01-25,8,Valle Silbador,False,WSP-19439,960,1440.0
+Daily,Regular_season,2018-03-20,Package,Full_day,2018-03-23,8,Valle Silbador,Elton Hotel,WSP-19450,880,1320.0
+Daily,Regular_season,2019-02-25,Package,Half_day,2019-03-12,8,Valle Silbador,Elton Hotel,WSP-19454,880,1320.0
+Daily,Regular_season,2018-01-20,Package,Full_day,2018-01-13,8,Valle Silbador,Elton Hotel,WSP-19457,880,1320.0
+Daily,Regular_season,2018-12-30,Online,Half_day,2019-01-11,8,Valle Silbador,False,WSP-19486,960,1440.0
+Daily,Regular_season,2017-12-02,Online,Extended_Hour,2018-03-04,8,Valle Silbador,False,WSP-19503,960,1440.0
+Daily,Regular_season,2018-12-25,Online,Full_day,2019-01-09,8,Valle Silbador,False,WSP-19515,960,1440.0
+Red HEROIC,Outside_season,2017-04-06,Red HEROIC,Full_day,2017-05-12,8,Puente Roto,False,WSP-19526,1120,1680.0
+Red HEROIC,Regular_season,2018-11-22,Red HEROIC,Full_day,2018-11-26,8,Ski Comanche,False,WSP-19540,1120,1680.0
+Daily,Regular_season,2018-02-10,Online,Half_day,2018-02-01,8,Valle Silbador,False,WSP-19542,960,1440.0
+Daily,Regular_season,2018-11-22,On_site,Extended_Hour,2019-01-02,8,Valle Silbador,False,WSP-19550,960,1440.0
+Daily,Regular_season,2018-01-07,Package,Half_day,2018-01-09,8,Valle Silbador,Elton Hotel,WSP-19555,880,1320.0
+Red HEROIC,Regular_season,2019-03-17,Red HEROIC,Full_day,2019-03-08,8,Puente Roto,False,WSP-19584,1120,1680.0
+Red HEROIC,Regular_season,2018-01-08,Red HEROIC,Full_day,2018-01-15,8,Cresta Velo,False,WSP-19588,1120,1680.0
+Daily,Regular_season,2018-11-29,On_site,Full_day,2019-03-15,8,Valle Silbador,False,WSP-19590,960,1440.0
+Daily,Regular_season,2018-11-26,Online,Full_day,2018-11-25,8,Valle Silbador,False,WSP-19608,960,1440.0
+Daily,Regular_season,2018-01-06,Package,Extended_Hour,2018-01-27,8,Valle Silbador,OI Hotels,WSP-19611,840,1260.0
+Red HEROIC,Outside_season,2018-11-08,Red HEROIC,Full_day,2018-05-31,8,Montaña Panadero,False,WSP-19645,1120,1680.0
+Daily,Regular_season,2019-01-26,Online,Full_day,2019-02-25,8,Valle Silbador,False,WSP-19655,960,1440.0
+Daily,Regular_season,2019-03-30,Online,Half_day,2019-03-21,8,Valle Silbador,False,WSP-19675,960,1440.0
+Daily,Regular_season,2019-03-25,Online,Full_day,2019-03-22,8,Valle Silbador,False,WSP-19692,960,1440.0
+Daily,Outside_season,2017-10-27,Package,Half_day,2017-07-19,8,Valle Silbador,Elton Hotel,WSP-19703,880,1320.0
+Red HEROIC,Regular_season,2018-03-04,Red HEROIC,Full_day,2018-03-23,8,Ski Comanche,False,WSP-19722,1120,1680.0
+Daily,Regular_season,2019-02-27,Online,Extended_Hour,2019-02-20,8,Valle Silbador,False,WSP-19726,960,1440.0
+Red HEROIC,Outside_season,2017-07-06,Red HEROIC,Full_day,2017-04-18,8,Montaña Panadero,False,WSP-19733,1120,1680.0
+Red HEROIC,Regular_season,2018-12-23,Red HEROIC,Full_day,2019-02-03,8,Cresta Velo,False,WSP-19739,1120,1680.0
+Red HEROIC,Regular_season,2019-03-21,Red HEROIC,Full_day,2019-03-23,8,Cresta Velo,False,WSP-19748,1120,1680.0
+Daily,Regular_season,2019-01-19,Online,Full_day,2019-02-15,8,Valle Silbador,False,WSP-19752,960,1440.0
+Red HEROIC,Outside_season,2017-11-14,Red HEROIC,Full_day,2017-04-29,8,Puente Roto,False,WSP-19758,1120,1680.0
+Daily,Regular_season,2018-03-05,Online,Full_day,2018-03-20,8,Valle Silbador,False,WSP-19761,960,1440.0
+Daily,Regular_season,2019-01-12,Package,Full_day,2019-01-18,8,Valle Silbador,Elton Hotel,WSP-19772,880,1320.0
+Daily,Regular_season,2018-01-17,Online,Full_day,2018-02-18,8,Valle Silbador,False,WSP-19779,960,1440.0
+Red HEROIC,Regular_season,2018-01-23,Red HEROIC,Full_day,2018-03-09,8,Montaña Panadero,False,WSP-19790,1120,1680.0
+Red HEROIC,Regular_season,2018-12-19,Red HEROIC,Full_day,2019-01-18,8,Cresta Velo,False,WSP-19793,1120,1680.0
+Daily,Regular_season,2018-12-26,Package,Full_day,2019-01-12,8,Valle Silbador,Ridossan Hotel,WSP-19797,800,1200.0
+Daily,Regular_season,2019-02-28,Package,Extended_Hour,2019-03-01,8,Valle Silbador,Elton Hotel,WSP-19798,880,1320.0
+Red HEROIC,Regular_season,2019-02-10,Red HEROIC,Full_day,2019-02-23,8,Puente Roto,False,WSP-19800,1120,1680.0
+Daily,Regular_season,2019-02-10,Online,Extended_Hour,2019-02-04,8,Valle Silbador,False,WSP-19843,960,1440.0
+Daily,Regular_season,2019-02-09,Online,Full_day,2019-03-17,8,Valle Silbador,False,WSP-19844,960,1440.0
+Daily,Regular_season,2019-02-17,Online,Full_day,2019-03-16,8,Valle Silbador,False,WSP-19891,960,1440.0
+Daily,Regular_season,2018-12-28,Online,Full_day,2019-01-19,8,Valle Silbador,False,WSP-19894,960,1440.0
+Red HEROIC,Regular_season,2019-02-07,Red HEROIC,Full_day,2019-03-21,8,Cresta Velo,False,WSP-19896,1120,1680.0
+Daily,Outside_season,2018-09-25,Online,Extended_Hour,2018-07-03,8,Valle Silbador,False,WSP-19900,960,1440.0
+Daily,Outside_season,2017-07-09,Package,Full_day,2017-04-16,8,Valle Silbador,Elton Hotel,WSP-19901,880,1320.0
+Daily,Regular_season,2018-03-10,On_site,Half_day,2018-03-23,8,Valle Silbador,False,WSP-19911,960,1440.0
+Daily,Regular_season,2018-11-20,Package,Full_day,2018-12-06,8,Valle Silbador,Elton Hotel,WSP-19916,880,1320.0
+Daily,Regular_season,2018-01-07,Online,Extended_Hour,2017-12-31,8,Valle Silbador,False,WSP-19938,960,1440.0
+Daily,Outside_season,2018-04-25,Online,Half_day,2018-07-07,8,Valle Silbador,False,WSP-19943,960,1440.0
+Daily,Regular_season,2017-12-07,Package,Half_day,2018-01-30,8,Valle Silbador,Haiit Hotel,WSP-19959,840,1260.0
+Red HEROIC,Regular_season,2017-12-04,Red HEROIC,Full_day,2017-11-29,8,Puente Roto,False,WSP-19973,1120,1680.0
+Daily,Regular_season,2017-11-20,Online,Full_day,2018-02-01,8,Valle Silbador,False,WSP-19988,960,1440.0
+Daily,Outside_season,2017-04-23,Package,Full_day,2017-06-24,8,Valle Silbador,Haiit Hotel,WSP-19999,840,1260.0
+Red HEROIC,Outside_season,2018-04-22,Red HEROIC,Full_day,2018-05-06,7,Puente Roto,False,WSP-19101,980,1470.0
+Daily,Regular_season,2018-01-05,Online,Full_day,2018-02-22,7,Valle Silbador,False,WSP-19137,840,1260.0
+Daily,Regular_season,2018-02-26,Online,Full_day,2018-03-08,7,Valle Silbador,False,WSP-19138,840,1260.0
+Daily,Regular_season,2018-11-20,Package,Extended_Hour,2019-03-20,7,Valle Silbador,Ski Inn,WSP-19141,525,787.5
+Daily,Outside_season,2017-05-25,Online,Full_day,2017-07-04,7,Valle Silbador,False,WSP-19142,840,1260.0
+Daily,Regular_season,2018-11-20,Package,Half_day,2018-12-30,7,Valle Silbador,Elton Hotel,WSP-19151,770,1155.0
+Red HEROIC,Regular_season,2018-03-08,Red HEROIC,Full_day,2018-03-05,7,Montaña Panadero,False,WSP-19162,980,1470.0
+Red HEROIC,Regular_season,2017-12-15,Red HEROIC,Full_day,2018-01-31,7,Montaña Panadero,False,WSP-19166,980,1470.0
+Red HEROIC,Regular_season,2018-12-20,Red HEROIC,Full_day,2019-03-17,7,Ski Comanche,False,WSP-19182,980,1470.0
+Daily,Regular_season,2019-03-01,Online,Half_day,2019-03-01,7,Valle Silbador,False,WSP-19197,840,1260.0
+Daily,Regular_season,2018-01-07,Package,Full_day,2018-03-07,7,Valle Silbador,Elton Hotel,WSP-19199,770,1155.0
+Daily,Regular_season,2019-03-15,Online,Full_day,2019-03-09,7,Valle Silbador,False,WSP-19208,840,1260.0
+Red HEROIC,Regular_season,2019-01-13,Red HEROIC,Full_day,2019-03-03,7,Cresta Velo,False,WSP-19214,980,1470.0
+Daily,Regular_season,2018-02-27,Package,Extended_Hour,2018-03-05,7,Valle Silbador,OI Hotels,WSP-19219,735,1102.5
+Red HEROIC,Regular_season,2018-03-14,Red HEROIC,Full_day,2018-03-16,7,Montaña Panadero,False,WSP-19225,980,1470.0
+Daily,Regular_season,2017-12-31,Online,Full_day,2018-02-27,7,Valle Silbador,False,WSP-19238,840,1260.0
+Red HEROIC,Outside_season,2018-10-22,Red HEROIC,Full_day,2018-04-03,7,Cresta Velo,False,WSP-19241,980,1470.0
+Red HEROIC,Regular_season,2018-03-11,Red HEROIC,Full_day,2018-03-03,7,Montaña Panadero,False,WSP-19266,980,1470.0
+Daily,Regular_season,2018-11-24,Package,Full_day,2019-01-26,7,Valle Silbador,Haiit Hotel,WSP-19281,735,1102.5
+Daily,Regular_season,2018-01-23,Package,Full_day,2018-02-11,7,Valle Silbador,Ridossan Hotel,WSP-19283,700,1050.0
+Daily,Regular_season,2018-02-16,On_site,Full_day,2018-02-09,7,Valle Silbador,False,WSP-19288,840,1260.0
+Daily,Regular_season,2018-01-22,Online,Extended_Hour,2018-01-30,7,Valle Silbador,False,WSP-19297,840,1260.0
+Daily,Regular_season,2017-12-21,Online,Full_day,2018-03-05,7,Valle Silbador,False,WSP-19301,840,1260.0
+Red HEROIC,Regular_season,2018-02-18,Red HEROIC,Full_day,2018-03-02,7,Montaña Panadero,False,WSP-19306,980,1470.0
+Daily,Outside_season,2018-06-23,Package,Half_day,2018-05-12,7,Valle Silbador,Elton Hotel,WSP-19312,770,1155.0
+Red HEROIC,Outside_season,2017-07-04,Red HEROIC,Full_day,2017-06-07,7,Montaña Panadero,False,WSP-19319,980,1470.0
+Daily,Regular_season,2018-11-16,Online,Full_day,2018-11-08,7,Valle Silbador,False,WSP-19323,840,1260.0
+Daily,Regular_season,2019-03-18,Online,Full_day,2019-03-23,7,Valle Silbador,False,WSP-19343,840,1260.0
+Red HEROIC,Regular_season,2019-03-09,Red HEROIC,Full_day,2019-03-13,7,Puente Roto,False,WSP-19349,980,1470.0
+Daily,Regular_season,2018-03-06,Online,Half_day,2018-03-06,7,Valle Silbador,False,WSP-19350,840,1260.0
+Daily,Regular_season,2019-01-01,Package,Full_day,2019-02-08,7,Valle Silbador,Ski Inn,WSP-19363,525,787.5
+Red HEROIC,Regular_season,2019-01-30,Red HEROIC,Full_day,2019-03-03,7,Puente Roto,False,WSP-19390,980,1470.0
+Daily,Outside_season,2017-04-14,On_site,Extended_Hour,2017-05-27,7,Valle Silbador,False,WSP-19399,840,1260.0
+Daily,Outside_season,2018-07-03,Package,Half_day,2018-05-04,7,Valle Silbador,Elton Hotel,WSP-19414,770,1155.0
+Daily,Outside_season,2017-07-01,Online,Full_day,2017-07-29,7,Valle Silbador,False,WSP-19433,840,1260.0
+Daily,Regular_season,2017-11-28,Online,Extended_Hour,2017-11-28,7,Valle Silbador,False,WSP-19442,840,1260.0
+Red HEROIC,Regular_season,2018-11-29,Red HEROIC,Full_day,2019-01-09,7,Cresta Velo,False,WSP-19453,980,1470.0
+Daily,Outside_season,2018-11-13,Package,Full_day,2018-04-30,7,Valle Silbador,OI Hotels,WSP-19464,735,1102.5
+Daily,Regular_season,2019-01-27,Package,Half_day,2019-01-30,7,Valle Silbador,Elton Hotel,WSP-19472,770,1155.0
+Daily,Regular_season,2017-12-30,Package,Full_day,2018-03-13,7,Valle Silbador,Elton Hotel,WSP-19474,770,1155.0
+Daily,Regular_season,2018-11-29,Online,Full_day,2019-01-14,7,Valle Silbador,False,WSP-19494,840,1260.0
+Daily,Regular_season,2018-01-02,Online,Full_day,2018-02-19,7,Valle Silbador,False,WSP-19513,840,1260.0
+Daily,Regular_season,2018-01-21,Online,Full_day,2018-03-19,7,Valle Silbador,False,WSP-19514,840,1260.0
+Daily,Outside_season,2017-06-11,Package,Full_day,2017-07-18,7,Valle Silbador,Ridossan Hotel,WSP-19524,700,1050.0
+Daily,Regular_season,2018-12-23,Online,Full_day,2019-02-16,7,Valle Silbador,False,WSP-19530,840,1260.0
+Daily,Regular_season,2018-02-24,Online,Full_day,2018-02-16,7,Valle Silbador,False,WSP-19534,840,1260.0
+Daily,Regular_season,2018-12-09,Package,Full_day,2019-02-24,7,Valle Silbador,Haiit Hotel,WSP-19553,735,1102.5
+Daily,Outside_season,2017-09-11,On_site,Full_day,2017-07-20,7,Valle Silbador,False,WSP-19565,840,1260.0
+Daily,Regular_season,2019-01-08,Package,Full_day,2019-01-30,7,Valle Silbador,Elton Hotel,WSP-19567,770,1155.0
+Red HEROIC,Regular_season,2019-04-01,Red HEROIC,Full_day,2019-03-23,7,Cresta Velo,False,WSP-19580,980,1470.0
+Daily,Regular_season,2018-03-28,Package,Extended_Hour,2018-03-23,7,Valle Silbador,Haiit Hotel,WSP-19597,735,1102.5
+Daily,Outside_season,2017-08-26,Online,Full_day,2017-07-04,7,Valle Silbador,False,WSP-19610,840,1260.0
+Red HEROIC,Regular_season,2017-12-04,Red HEROIC,Full_day,2017-12-19,7,Montaña Panadero,False,WSP-19616,980,1470.0
+Daily,Outside_season,2018-06-06,Package,Full_day,2018-04-20,7,Valle Silbador,Elton Hotel,WSP-19617,770,1155.0
+Daily,Regular_season,2018-12-06,Online,Full_day,2018-12-20,7,Valle Silbador,False,WSP-19620,840,1260.0
+Daily,Outside_season,2017-06-21,Package,Full_day,2017-04-09,7,Valle Silbador,OI Hotels,WSP-19628,735,1102.5
+Daily,Regular_season,2018-02-27,Online,Full_day,2018-03-18,7,Valle Silbador,False,WSP-19634,840,1260.0
+Red HEROIC,Regular_season,2019-02-06,Red HEROIC,Full_day,2019-03-18,7,Cresta Velo,False,WSP-19637,980,1470.0
+Red HEROIC,Regular_season,2018-03-06,Red HEROIC,Full_day,2018-03-06,7,Ski Comanche,False,WSP-19639,980,1470.0
+Red HEROIC,Regular_season,2018-01-01,Red HEROIC,Full_day,2018-03-02,7,Cresta Velo,False,WSP-19648,980,1470.0
+Daily,Outside_season,2018-06-20,Online,Full_day,2018-05-05,7,Valle Silbador,False,WSP-19653,840,1260.0
+Red HEROIC,Outside_season,2017-10-26,Red HEROIC,Full_day,2017-04-18,7,Puente Roto,False,WSP-19662,980,1470.0
+Daily,Regular_season,2018-03-31,Online,Full_day,2018-03-22,7,Valle Silbador,False,WSP-19663,840,1260.0
+Red HEROIC,Regular_season,2018-03-22,Red HEROIC,Full_day,2018-03-16,7,Ski Comanche,False,WSP-19665,980,1470.0
+Red HEROIC,Regular_season,2017-12-19,Red HEROIC,Full_day,2018-03-08,7,Montaña Panadero,False,WSP-19669,980,1470.0
+Red HEROIC,Regular_season,2018-01-07,Red HEROIC,Full_day,2018-03-09,7,Montaña Panadero,False,WSP-19674,980,1470.0
+Red HEROIC,Regular_season,2017-12-19,Red HEROIC,Full_day,2018-01-26,7,Montaña Panadero,False,WSP-19677,980,1470.0
+Daily,Outside_season,2018-05-29,Online,Full_day,2018-05-15,7,Valle Silbador,False,WSP-19686,840,1260.0
+Daily,Regular_season,2018-02-10,Online,Full_day,2018-02-16,7,Valle Silbador,False,WSP-19700,840,1260.0
+Red HEROIC,Regular_season,2018-02-15,Red HEROIC,Full_day,2018-02-21,7,Puente Roto,False,WSP-19723,980,1470.0
+Red HEROIC,Regular_season,2018-12-13,Red HEROIC,Full_day,2019-01-02,7,Cresta Velo,False,WSP-19728,980,1470.0
+Daily,Outside_season,2018-10-30,On_site,Extended_Hour,2018-07-23,7,Valle Silbador,False,WSP-19738,840,1260.0
+Daily,Regular_season,2017-11-28,Online,Full_day,2018-01-04,7,Valle Silbador,False,WSP-19745,840,1260.0
+Red HEROIC,Regular_season,2018-02-10,Red HEROIC,Full_day,2018-02-14,7,Cresta Velo,False,WSP-19756,980,1470.0
+Daily,Regular_season,2018-02-09,Online,Half_day,2018-02-14,7,Valle Silbador,False,WSP-19795,840,1260.0
+Daily,Outside_season,2017-06-24,Package,Full_day,2017-07-21,7,Valle Silbador,Ridossan Hotel,WSP-19803,700,1050.0
+Daily,Outside_season,2018-10-01,Online,Full_day,2018-06-09,7,Valle Silbador,False,WSP-19807,840,1260.0
+Daily,Regular_season,2017-12-22,Online,Half_day,2017-12-22,7,Valle Silbador,False,WSP-19809,840,1260.0
+Daily,Regular_season,2019-02-20,Online,Full_day,2019-02-11,7,Valle Silbador,False,WSP-19812,840,1260.0
+Red HEROIC,Regular_season,2018-03-24,Red HEROIC,Full_day,2018-03-21,7,Ski Comanche,False,WSP-19818,980,1470.0
+Daily,Regular_season,2017-11-19,Package,Full_day,2018-01-07,7,Valle Silbador,Elton Hotel,WSP-19830,770,1155.0
+Red HEROIC,Regular_season,2019-02-02,Red HEROIC,Full_day,2019-01-30,7,Montaña Panadero,False,WSP-19847,980,1470.0
+Daily,Regular_season,2018-02-23,Package,Full_day,2018-03-21,7,Valle Silbador,Elton Hotel,WSP-19858,770,1155.0
+Daily,Regular_season,2018-01-17,Online,Full_day,2018-03-15,7,Valle Silbador,False,WSP-19862,840,1260.0
+Daily,Outside_season,2018-07-25,Online,Full_day,2018-05-08,7,Valle Silbador,False,WSP-19863,840,1260.0
+Daily,Regular_season,2019-01-24,Online,Extended_Hour,2019-02-08,7,Valle Silbador,False,WSP-19869,840,1260.0
+Red HEROIC,Outside_season,2018-08-04,Red HEROIC,Full_day,2018-04-19,7,Montaña Panadero,False,WSP-19870,980,1470.0
+Daily,Regular_season,2019-03-26,Online,Full_day,2019-03-23,7,Valle Silbador,False,WSP-19874,840,1260.0
+Red HEROIC,Regular_season,2019-01-30,Red HEROIC,Full_day,2019-02-25,7,Puente Roto,False,WSP-19904,980,1470.0
+Daily,Regular_season,2018-02-05,Online,Extended_Hour,2018-02-28,7,Valle Silbador,False,WSP-19906,840,1260.0
+Daily,Regular_season,2018-11-20,Package,Half_day,2019-02-07,7,Valle Silbador,Elton Hotel,WSP-19915,770,1155.0
+Red HEROIC,Regular_season,2019-02-12,Red HEROIC,Full_day,2019-02-03,7,Montaña Panadero,False,WSP-19935,980,1470.0
+Daily,Regular_season,2019-02-23,Online,Full_day,2019-02-20,7,Valle Silbador,False,WSP-19940,840,1260.0
+Red HEROIC,Regular_season,2018-12-15,Red HEROIC,Full_day,2018-12-09,7,Cresta Velo,False,WSP-19942,980,1470.0
+Daily,Regular_season,2018-12-10,Online,Full_day,2019-02-21,7,Valle Silbador,False,WSP-19953,840,1260.0
+Red HEROIC,Regular_season,2018-12-04,Red HEROIC,Full_day,2019-01-06,7,Monte Japón,False,WSP-19955,980,1470.0
+Daily,Outside_season,2018-07-22,On_site,Full_day,2018-06-07,7,Valle Silbador,False,WSP-19962,840,1260.0
+Daily,Outside_season,2017-06-28,Package,Full_day,2017-04-29,7,Valle Silbador,OI Hotels,WSP-19964,735,1102.5
+Red HEROIC,Regular_season,2018-12-21,Red HEROIC,Full_day,2019-02-10,7,Ski Comanche,False,WSP-19976,980,1470.0
+Red HEROIC,Regular_season,2019-03-06,Red HEROIC,Full_day,2019-02-27,7,Montaña Panadero,False,WSP-19978,980,1470.0
+Daily,Regular_season,2017-12-23,Online,Half_day,2018-01-23,7,Valle Silbador,False,WSP-19993,840,1260.0
+Daily,Outside_season,2018-09-19,Package,Half_day,2018-07-24,7,Valle Silbador,Elton Hotel,WSP-19995,770,1155.0
+Red HEROIC,Outside_season,2018-04-13,Red HEROIC,Full_day,2018-07-08,6,Montaña Panadero,False,WSP-19094,840,1260.0
+Daily,Regular_season,2017-11-23,Online,Extended_Hour,2018-01-01,6,Valle Silbador,False,WSP-19096,720,1080.0
+Daily,Regular_season,2019-03-10,Online,Full_day,2019-03-13,6,Valle Silbador,False,WSP-19107,720,1080.0
+Red HEROIC,Outside_season,2018-04-19,Red HEROIC,Full_day,2018-05-03,6,Puente Roto,False,WSP-19111,840,1260.0
+Daily,Regular_season,2018-01-01,On_site,Full_day,2018-02-25,6,Valle Silbador,False,WSP-19115,720,1080.0
+Daily,Regular_season,2017-12-31,Online,Full_day,2018-02-05,6,Valle Silbador,False,WSP-19120,720,1080.0
+Daily,Outside_season,2018-04-12,Package,Half_day,2018-07-20,6,Valle Silbador,Elton Hotel,WSP-19123,660,990.0
+Daily,Regular_season,2019-01-07,Online,Full_day,2019-01-26,6,Valle Silbador,False,WSP-19127,720,1080.0
+Daily,Regular_season,2018-01-06,Package,Full_day,2018-02-28,6,Valle Silbador,Haiit Hotel,WSP-19143,630,945.0
+Daily,Regular_season,2017-11-27,Package,Full_day,2018-02-28,6,Valle Silbador,Ski Inn,WSP-19155,450,675.0
+Daily,Regular_season,2019-01-08,On_site,Full_day,2019-01-03,6,Valle Silbador,False,WSP-19163,720,1080.0
+Daily,Regular_season,2018-11-21,Package,Extended_Hour,2019-02-17,6,Valle Silbador,Haiit Hotel,WSP-19179,630,945.0
+Daily,Regular_season,2018-12-09,On_site,Full_day,2019-02-04,6,Valle Silbador,False,WSP-19195,720,1080.0
+Daily,Regular_season,2019-01-13,Package,Full_day,2019-01-21,6,Valle Silbador,Elton Hotel,WSP-19215,660,990.0
+Red HEROIC,Outside_season,2017-09-18,Red HEROIC,Full_day,2017-06-26,6,Cresta Velo,False,WSP-19222,840,1260.0
+Daily,Regular_season,2017-11-18,Online,Extended_Hour,2018-02-23,6,Valle Silbador,False,WSP-19227,720,1080.0
+Daily,Outside_season,2018-10-21,Online,Full_day,2018-06-08,6,Valle Silbador,False,WSP-19239,720,1080.0
+Daily,Regular_season,2018-11-29,Package,Full_day,2018-12-23,6,Valle Silbador,Elton Hotel,WSP-19272,660,990.0
+Red HEROIC,Regular_season,2017-12-24,Red HEROIC,Full_day,2018-03-12,6,Puente Roto,False,WSP-19276,840,1260.0
+Red HEROIC,Regular_season,2019-03-30,Red HEROIC,Full_day,2019-03-21,6,Cresta Velo,False,WSP-19299,840,1260.0
+Daily,Outside_season,2018-06-09,Online,Full_day,2018-08-05,6,Valle Silbador,False,WSP-19304,720,1080.0
+Daily,Regular_season,2018-11-15,Online,Extended_Hour,2019-02-12,6,Valle Silbador,False,WSP-19313,720,1080.0
+Red HEROIC,Regular_season,2018-01-22,Red HEROIC,Full_day,2018-02-23,6,Montaña Panadero,False,WSP-19334,840,1260.0
+Daily,Outside_season,2018-06-02,Online,Extended_Hour,2018-06-29,6,Valle Silbador,False,WSP-19348,720,1080.0
+Daily,Outside_season,2018-10-18,Package,Full_day,2018-07-19,6,Valle Silbador,Ridossan Hotel,WSP-19354,600,900.0
+Daily,Regular_season,2017-12-17,Package,Full_day,2018-01-19,6,Valle Silbador,Elton Hotel,WSP-19359,660,990.0
+Daily,Regular_season,2017-12-16,Online,Full_day,2018-01-02,6,Valle Silbador,False,WSP-19366,720,1080.0
+Daily,Regular_season,2018-11-30,Package,Extended_Hour,2019-03-14,6,Valle Silbador,Haiit Hotel,WSP-19381,630,945.0
+Daily,Regular_season,2017-12-06,On_site,Full_day,2018-02-26,6,Valle Silbador,False,WSP-19382,720,1080.0
+Daily,Regular_season,2018-01-02,Package,Full_day,2018-02-12,6,Valle Silbador,Haiit Hotel,WSP-19387,630,945.0
+Red HEROIC,Outside_season,2017-08-27,Red HEROIC,Full_day,2017-05-17,6,Puente Roto,False,WSP-19401,840,1260.0
+Daily,Regular_season,2017-12-24,On_site,Full_day,2018-01-20,6,Valle Silbador,False,WSP-19421,720,1080.0
+Red HEROIC,Outside_season,2017-10-01,Red HEROIC,Full_day,2017-05-15,6,Cresta Velo,False,WSP-19429,840,1260.0
+Daily,Regular_season,2019-01-13,Package,Half_day,2019-01-15,6,Valle Silbador,Haiit Hotel,WSP-19436,630,945.0
+Daily,Outside_season,2018-07-03,On_site,Half_day,2018-07-22,6,Valle Silbador,False,WSP-19440,720,1080.0
+Daily,Regular_season,2018-03-08,Online,Full_day,2018-03-17,6,Valle Silbador,False,WSP-19489,720,1080.0
+Daily,Outside_season,2017-06-23,Package,Full_day,2017-05-18,6,Valle Silbador,OI Hotels,WSP-19495,630,945.0
+Red HEROIC,Regular_season,2017-11-27,Red HEROIC,Full_day,2017-11-24,6,Montaña Panadero,False,WSP-19501,840,1260.0
+Daily,Regular_season,2019-02-10,Package,Full_day,2019-03-23,6,Valle Silbador,Elton Hotel,WSP-19544,660,990.0
+Daily,Regular_season,2019-01-13,Package,Extended_Hour,2019-01-31,6,Valle Silbador,Haiit Hotel,WSP-19564,630,945.0
+Daily,Regular_season,2018-12-09,Online,Full_day,2018-12-08,6,Valle Silbador,False,WSP-19578,720,1080.0
+Daily,Regular_season,2019-02-05,Package,Full_day,2019-02-09,6,Valle Silbador,Elton Hotel,WSP-19599,660,990.0
+Red HEROIC,Regular_season,2018-03-18,Red HEROIC,Full_day,2018-03-18,6,Cresta Velo,False,WSP-19603,840,1260.0
+Daily,Regular_season,2018-02-10,Package,Half_day,2018-02-08,6,Valle Silbador,Haiit Hotel,WSP-19612,630,945.0
+Daily,Regular_season,2017-11-20,Online,Half_day,2018-01-24,6,Valle Silbador,False,WSP-19623,720,1080.0
+Daily,Regular_season,2018-11-21,Online,Extended_Hour,2019-03-16,6,Valle Silbador,False,WSP-19626,720,1080.0
+Daily,Regular_season,2018-01-14,Online,Full_day,2018-01-26,6,Valle Silbador,False,WSP-19650,720,1080.0
+Daily,Outside_season,2018-10-04,Online,Full_day,2018-07-31,6,Valle Silbador,False,WSP-19660,720,1080.0
+Daily,Regular_season,2019-01-29,Online,Full_day,2019-02-03,6,Valle Silbador,False,WSP-19666,720,1080.0
+Daily,Outside_season,2017-08-21,On_site,Extended_Hour,2017-07-12,6,Valle Silbador,False,WSP-19701,720,1080.0
+Daily,Regular_season,2018-02-13,Online,Half_day,2018-02-20,6,Valle Silbador,False,WSP-19715,720,1080.0
+Daily,Regular_season,2018-03-28,Online,Full_day,2018-03-19,6,Valle Silbador,False,WSP-19719,720,1080.0
+Red HEROIC,Regular_season,2018-02-03,Red HEROIC,Full_day,2018-03-05,6,Cresta Velo,False,WSP-19725,840,1260.0
+Red HEROIC,Regular_season,2017-12-27,Red HEROIC,Full_day,2018-03-09,6,Cresta Velo,False,WSP-19731,840,1260.0
+Red HEROIC,Regular_season,2018-01-16,Red HEROIC,Full_day,2018-01-17,6,Montaña Panadero,False,WSP-19732,840,1260.0
+Daily,Regular_season,2018-02-17,Online,Half_day,2018-03-09,6,Valle Silbador,False,WSP-19736,720,1080.0
+Daily,Regular_season,2018-02-13,Package,Full_day,2018-03-22,6,Valle Silbador,Haiit Hotel,WSP-19737,630,945.0
+Daily,Regular_season,2019-02-04,Online,Half_day,2019-03-09,6,Valle Silbador,False,WSP-19746,720,1080.0
+Daily,Regular_season,2018-03-21,Online,Full_day,2018-03-13,6,Valle Silbador,False,WSP-19750,720,1080.0
+Daily,Regular_season,2018-03-24,Online,Extended_Hour,2018-03-21,6,Valle Silbador,False,WSP-19753,720,1080.0
+Daily,Regular_season,2018-02-17,Package,Extended_Hour,2018-03-21,6,Valle Silbador,Elton Hotel,WSP-19762,660,990.0
+Daily,Regular_season,2018-12-24,Online,Full_day,2019-01-02,6,Valle Silbador,False,WSP-19767,720,1080.0
+Red HEROIC,Regular_season,2019-02-10,Red HEROIC,Full_day,2019-02-13,6,Cresta Velo,False,WSP-19774,840,1260.0
+Red HEROIC,Regular_season,2019-02-06,Red HEROIC,Full_day,2019-01-31,6,Montaña Panadero,False,WSP-19777,840,1260.0
+Red HEROIC,Regular_season,2019-02-18,Red HEROIC,Full_day,2019-03-08,6,Cresta Velo,False,WSP-19802,840,1260.0
+Daily,Regular_season,2019-02-20,Online,Full_day,2019-02-14,6,Valle Silbador,False,WSP-19825,720,1080.0
+Red HEROIC,Outside_season,2018-08-27,Red HEROIC,Full_day,2018-07-11,6,Monte Japón,False,WSP-19827,840,1260.0
+Daily,Regular_season,2018-12-27,Online,Full_day,2019-01-28,6,Valle Silbador,False,WSP-19851,720,1080.0
+Daily,Outside_season,2017-09-06,Package,Full_day,2017-06-10,6,Valle Silbador,OI Hotels,WSP-19873,630,945.0
+Daily,Regular_season,2018-01-21,Online,Extended_Hour,2018-02-18,6,Valle Silbador,False,WSP-19881,720,1080.0
+Red HEROIC,Regular_season,2018-12-24,Red HEROIC,Full_day,2019-03-16,6,Montaña Panadero,False,WSP-19897,840,1260.0
+Daily,Regular_season,2019-02-24,On_site,Half_day,2019-03-01,6,Valle Silbador,False,WSP-19907,720,1080.0
+Red HEROIC,Outside_season,2018-04-22,Red HEROIC,Full_day,2018-07-16,6,Cresta Velo,False,WSP-19908,840,1260.0
+Daily,Regular_season,2018-11-15,Package,Full_day,2019-01-29,6,Valle Silbador,Elton Hotel,WSP-19913,660,990.0
+Red HEROIC,Regular_season,2019-01-02,Red HEROIC,Full_day,2019-01-24,6,Puente Roto,False,WSP-19923,840,1260.0
+Daily,Regular_season,2019-01-30,Online,Full_day,2019-03-14,6,Valle Silbador,False,WSP-19932,720,1080.0
+Daily,Regular_season,2018-12-31,Package,Extended_Hour,2019-02-26,6,Valle Silbador,Elton Hotel,WSP-19947,660,990.0
+Daily,Regular_season,2018-03-15,Online,Full_day,2018-03-07,6,Valle Silbador,False,WSP-19956,720,1080.0
+Daily,Regular_season,2018-03-03,Package,Full_day,2018-03-20,6,Valle Silbador,Ski Inn,WSP-19966,450,675.0
+Daily,Regular_season,2018-12-29,Package,Half_day,2019-02-07,6,Valle Silbador,Haiit Hotel,WSP-19967,630,945.0
+Red HEROIC,Regular_season,2019-01-31,Red HEROIC,Full_day,2019-03-23,6,Montaña Panadero,False,WSP-19971,840,1260.0
+Daily,Regular_season,2018-01-22,Online,Full_day,2018-01-27,6,Valle Silbador,False,WSP-19975,720,1080.0
+Daily,Regular_season,2019-01-09,Online,Full_day,2019-03-11,5,Valle Silbador,False,WSP-19097,600,900.0
+Red HEROIC,Outside_season,2017-10-29,Red HEROIC,Full_day,2017-05-07,5,Puente Roto,False,WSP-19114,700,1050.0
+Daily,Regular_season,2018-02-07,Online,Full_day,2018-03-01,5,Valle Silbador,False,WSP-19136,600,900.0
+Red HEROIC,Regular_season,2018-12-23,Red HEROIC,Full_day,2019-03-01,5,Monte Japón,False,WSP-19165,700,1050.0
+Daily,Regular_season,2017-12-19,Package,Full_day,2018-01-06,5,Valle Silbador,Elton Hotel,WSP-19189,550,825.0
+Red HEROIC,Regular_season,2017-12-13,Red HEROIC,Full_day,2018-01-31,5,Montaña Panadero,False,WSP-19196,700,1050.0
+Daily,Regular_season,2018-11-26,Online,Full_day,2018-12-27,5,Valle Silbador,False,WSP-19211,600,900.0
+Red HEROIC,Regular_season,2018-02-08,Red HEROIC,Full_day,2018-03-13,5,Cresta Velo,False,WSP-19221,700,1050.0
+Daily,Regular_season,2019-01-30,Online,Full_day,2019-02-07,5,Valle Silbador,False,WSP-19224,600,900.0
+Red HEROIC,Regular_season,2019-01-30,Red HEROIC,Full_day,2019-03-21,5,Cresta Velo,False,WSP-19226,700,1050.0
+Red HEROIC,Regular_season,2019-03-01,Red HEROIC,Full_day,2019-03-11,5,Cresta Velo,False,WSP-19237,700,1050.0
+Red HEROIC,Regular_season,2019-01-08,Red HEROIC,Full_day,2019-02-23,5,Puente Roto,False,WSP-19249,700,1050.0
+Daily,Regular_season,2018-12-27,Online,Half_day,2018-12-27,5,Valle Silbador,False,WSP-19251,600,900.0
+Daily,Regular_season,2018-02-21,Package,Full_day,2018-03-10,5,Valle Silbador,Ridossan Hotel,WSP-19257,500,750.0
+Daily,Regular_season,2018-03-31,Online,Full_day,2018-03-23,5,Valle Silbador,False,WSP-19267,600,900.0
+Daily,Regular_season,2019-03-06,Online,Extended_Hour,2019-03-11,5,Valle Silbador,False,WSP-19273,600,900.0
+Red HEROIC,Outside_season,2018-06-05,Red HEROIC,Full_day,2018-07-10,5,Montaña Panadero,False,WSP-19275,700,1050.0
+Daily,Regular_season,2018-02-21,On_site,Full_day,2018-03-16,5,Valle Silbador,False,WSP-19278,600,900.0
+Daily,Regular_season,2019-02-12,Package,Half_day,2019-03-16,5,Valle Silbador,Elton Hotel,WSP-19287,550,825.0
+Daily,Regular_season,2019-03-30,Online,Full_day,2019-03-21,5,Valle Silbador,False,WSP-19305,600,900.0
+Daily,Regular_season,2018-02-07,Online,Extended_Hour,2018-03-17,5,Valle Silbador,False,WSP-19341,600,900.0
+Daily,Outside_season,2018-10-02,Online,Full_day,2018-07-05,5,Valle Silbador,False,WSP-19378,600,900.0
+Daily,Regular_season,2018-12-28,Package,Half_day,2018-12-19,5,Valle Silbador,Ridossan Hotel,WSP-19403,500,750.0
+Daily,Regular_season,2018-02-18,Online,Full_day,2018-02-16,5,Valle Silbador,False,WSP-19416,600,900.0
+Daily,Regular_season,2019-01-31,Package,Full_day,2019-03-03,5,Valle Silbador,Ski Inn,WSP-19424,375,562.5
+Daily,Regular_season,2019-01-26,Online,Full_day,2019-01-19,5,Valle Silbador,False,WSP-19426,600,900.0
+Red HEROIC,Regular_season,2019-03-12,Red HEROIC,Full_day,2019-03-12,5,Ski Comanche,False,WSP-19438,700,1050.0
+Daily,Regular_season,2017-12-12,Online,Full_day,2018-02-25,5,Valle Silbador,False,WSP-19462,600,900.0
+Daily,Regular_season,2017-12-20,On_site,Full_day,2018-01-13,5,Valle Silbador,False,WSP-19463,600,900.0
+Daily,Regular_season,2019-01-22,Package,Full_day,2019-01-15,5,Valle Silbador,Elton Hotel,WSP-19470,550,825.0
+Red HEROIC,Regular_season,2018-03-28,Red HEROIC,Full_day,2018-03-23,5,Monte Japón,False,WSP-19471,700,1050.0
+Red HEROIC,Regular_season,2017-12-13,Red HEROIC,Full_day,2017-12-19,5,Ski Comanche,False,WSP-19475,700,1050.0
+Daily,Regular_season,2017-12-01,Online,Full_day,2017-12-24,5,Valle Silbador,False,WSP-19478,600,900.0
+Red HEROIC,Regular_season,2018-03-05,Red HEROIC,Full_day,2018-03-19,5,Cresta Velo,False,WSP-19485,700,1050.0
+Red HEROIC,Regular_season,2018-12-03,Red HEROIC,Full_day,2018-12-09,5,Ski Comanche,False,WSP-19488,700,1050.0
+Daily,Regular_season,2018-03-06,Package,Full_day,2018-03-09,5,Valle Silbador,Ridossan Hotel,WSP-19490,500,750.0
+Daily,Regular_season,2019-02-15,Package,Half_day,2019-03-02,5,Valle Silbador,Elton Hotel,WSP-19492,550,825.0
+Daily,Regular_season,2019-01-13,Online,Half_day,2019-02-07,5,Valle Silbador,False,WSP-19496,600,900.0
+Daily,Regular_season,2019-03-30,Online,Full_day,2019-03-21,5,Valle Silbador,False,WSP-19498,600,900.0
+Red HEROIC,Outside_season,2018-06-15,Red HEROIC,Full_day,2018-04-06,5,Montaña Panadero,False,WSP-19500,700,1050.0
+Daily,Regular_season,2018-01-01,On_site,Full_day,2018-02-10,5,Valle Silbador,False,WSP-19502,600,900.0
+Daily,Regular_season,2019-01-08,Online,Full_day,2019-03-18,5,Valle Silbador,False,WSP-19505,600,900.0
+Daily,Regular_season,2018-03-14,Online,Full_day,2018-03-11,5,Valle Silbador,False,WSP-19508,600,900.0
+Red HEROIC,Outside_season,2017-05-14,Red HEROIC,Full_day,2017-04-22,5,Montaña Panadero,False,WSP-19512,700,1050.0
+Daily,Regular_season,2017-12-08,On_site,Full_day,2018-03-19,5,Valle Silbador,False,WSP-19523,600,900.0
+Red HEROIC,Regular_season,2019-03-16,Red HEROIC,Full_day,2019-03-15,5,Montaña Panadero,False,WSP-19538,700,1050.0
+Red HEROIC,Regular_season,2017-11-24,Red HEROIC,Full_day,2018-02-19,5,Cresta Velo,False,WSP-19561,700,1050.0
+Daily,Regular_season,2019-03-27,Package,Half_day,2019-03-23,5,Valle Silbador,Haiit Hotel,WSP-19566,525,787.5
+Red HEROIC,Regular_season,2019-02-24,Red HEROIC,Full_day,2019-03-07,5,Cresta Velo,False,WSP-19577,700,1050.0
+Daily,Regular_season,2018-02-16,Package,Extended_Hour,2018-02-13,5,Valle Silbador,OI Hotels,WSP-19581,525,787.5
+Red HEROIC,Regular_season,2019-01-31,Red HEROIC,Full_day,2019-03-07,5,Cresta Velo,False,WSP-19585,700,1050.0
+Daily,Regular_season,2019-01-12,Online,Full_day,2019-02-10,5,Valle Silbador,False,WSP-19592,600,900.0
+Daily,Regular_season,2019-02-02,Package,Full_day,2019-03-08,5,Valle Silbador,Haiit Hotel,WSP-19624,525,787.5
+Red HEROIC,Regular_season,2018-03-04,Red HEROIC,Full_day,2018-03-04,5,Puente Roto,False,WSP-19640,700,1050.0
+Daily,Regular_season,2019-03-09,Online,Full_day,2019-03-07,5,Valle Silbador,False,WSP-19641,600,900.0
+Red HEROIC,Outside_season,2017-09-25,Red HEROIC,Full_day,2017-05-12,5,Montaña Panadero,False,WSP-19644,700,1050.0
+Daily,Regular_season,2017-12-21,Package,Extended_Hour,2018-03-23,5,Valle Silbador,Elton Hotel,WSP-19681,550,825.0
+Daily,Regular_season,2019-01-16,Online,Full_day,2019-01-21,5,Valle Silbador,False,WSP-19682,600,900.0
+Daily,Regular_season,2018-02-14,Package,Full_day,2018-03-10,5,Valle Silbador,Haiit Hotel,WSP-19685,525,787.5
+Daily,Regular_season,2017-11-18,On_site,Full_day,2017-12-29,5,Valle Silbador,False,WSP-19691,600,900.0
+Daily,Regular_season,2018-12-06,Package,Full_day,2018-12-08,5,Valle Silbador,Haiit Hotel,WSP-19698,525,787.5
+Red HEROIC,Regular_season,2018-12-07,Red HEROIC,Full_day,2019-01-08,5,Montaña Panadero,False,WSP-19740,700,1050.0
+Daily,Regular_season,2018-04-01,Online,Extended_Hour,2018-03-23,5,Valle Silbador,False,WSP-19744,600,900.0
+Daily,Regular_season,2018-12-10,Package,Full_day,2019-01-10,5,Valle Silbador,Elton Hotel,WSP-19760,550,825.0
+Red HEROIC,Regular_season,2018-03-05,Red HEROIC,Full_day,2018-02-27,5,Cresta Velo,False,WSP-19773,700,1050.0
+Daily,Regular_season,2017-11-16,Package,Full_day,2018-01-23,5,Valle Silbador,Elton Hotel,WSP-19780,550,825.0
+Daily,Regular_season,2018-01-03,Package,Full_day,2018-02-15,5,Valle Silbador,Elton Hotel,WSP-19788,550,825.0
+Daily,Regular_season,2017-11-27,Online,Half_day,2018-01-31,5,Valle Silbador,False,WSP-19789,600,900.0
+Daily,Regular_season,2019-02-26,Online,Full_day,2019-03-01,5,Valle Silbador,False,WSP-19799,600,900.0
+Daily,Outside_season,2017-08-16,Online,Full_day,2017-05-30,5,Valle Silbador,False,WSP-19804,600,900.0
+Daily,Regular_season,2018-01-27,Online,Full_day,2018-01-27,5,Valle Silbador,False,WSP-19805,600,900.0
+Red HEROIC,Regular_season,2017-11-19,Red HEROIC,Full_day,2018-03-03,5,Puente Roto,False,WSP-19840,700,1050.0
+Red HEROIC,Regular_season,2017-12-29,Red HEROIC,Full_day,2018-03-03,5,Cresta Velo,False,WSP-19852,700,1050.0
+Red HEROIC,Regular_season,2019-03-04,Red HEROIC,Full_day,2019-03-15,5,Montaña Panadero,False,WSP-19860,700,1050.0
+Daily,Regular_season,2018-02-02,Package,Full_day,2018-03-16,5,Valle Silbador,Haiit Hotel,WSP-19864,525,787.5
+Red HEROIC,Regular_season,2019-03-10,Red HEROIC,Full_day,2019-03-12,5,Montaña Panadero,False,WSP-19883,700,1050.0
+Red HEROIC,Regular_season,2017-12-07,Red HEROIC,Full_day,2017-11-30,5,Montaña Panadero,False,WSP-19886,700,1050.0
+Red HEROIC,Outside_season,2017-09-21,Red HEROIC,Full_day,2017-05-15,5,Cresta Velo,False,WSP-19887,700,1050.0
+Daily,Regular_season,2018-03-24,On_site,Full_day,2018-03-16,5,Valle Silbador,False,WSP-19892,600,900.0
+Red HEROIC,Regular_season,2019-01-11,Red HEROIC,Full_day,2019-03-06,5,Ski Comanche,False,WSP-19921,700,1050.0
+Red HEROIC,Outside_season,2018-11-08,Red HEROIC,Full_day,2018-05-15,5,Ski Comanche,False,WSP-19930,700,1050.0
+Daily,Outside_season,2017-04-24,Package,Half_day,2017-06-16,5,Valle Silbador,Elton Hotel,WSP-19958,550,825.0
+Daily,Regular_season,2017-12-04,Online,Full_day,2017-12-09,5,Valle Silbador,False,WSP-19982,600,900.0
+Daily,Regular_season,2019-01-19,Package,Full_day,2019-03-19,5,Valle Silbador,Ridossan Hotel,WSP-19984,500,750.0
+Daily,Regular_season,2019-02-17,Package,Half_day,2019-03-10,5,Valle Silbador,Elton Hotel,WSP-19991,550,825.0
+Red HEROIC,Outside_season,2017-05-27,Red HEROIC,Full_day,2017-04-03,5,Puente Roto,False,WSP-19998,700,1050.0
+Daily,Regular_season,2018-11-21,Online,Full_day,2019-03-07,4,Valle Silbador,False,WSP-19125,480,720.0
+Daily,Regular_season,2018-02-15,Online,Full_day,2018-03-14,4,Valle Silbador,False,WSP-19132,480,720.0
+Red HEROIC,Outside_season,2018-07-11,Red HEROIC,Full_day,2018-06-05,4,Ski Comanche,False,WSP-19164,560,840.0
+Red HEROIC,Regular_season,2018-02-17,Red HEROIC,Full_day,2018-02-26,4,Puente Roto,False,WSP-19167,560,840.0
+Red HEROIC,Outside_season,2018-10-26,Red HEROIC,Full_day,2018-05-22,4,Ski Comanche,False,WSP-19169,560,840.0
+Daily,Regular_season,2017-12-24,Package,Half_day,2018-01-14,4,Valle Silbador,Elton Hotel,WSP-19183,440,660.0
+Daily,Regular_season,2018-02-25,Package,Full_day,2018-02-19,4,Valle Silbador,Elton Hotel,WSP-19190,440,660.0
+Daily,Regular_season,2017-12-05,Online,Full_day,2018-03-17,4,Valle Silbador,False,WSP-19246,480,720.0
+Daily,Regular_season,2018-11-16,Online,Full_day,2018-11-25,4,Valle Silbador,False,WSP-19256,480,720.0
+Daily,Regular_season,2019-03-09,On_site,Full_day,2019-02-28,4,Valle Silbador,False,WSP-19285,480,720.0
+Daily,Regular_season,2019-03-10,Online,Full_day,2019-03-04,4,Valle Silbador,False,WSP-19291,480,720.0
+Daily,Outside_season,2018-07-08,Package,Full_day,2018-05-18,4,Valle Silbador,Elton Hotel,WSP-19292,440,660.0
+Red HEROIC,Regular_season,2018-01-08,Red HEROIC,Full_day,2018-01-09,4,Ski Comanche,False,WSP-19302,560,840.0
+Daily,Outside_season,2018-10-22,Online,Full_day,2018-05-22,4,Valle Silbador,False,WSP-19327,480,720.0
+Daily,Regular_season,2017-12-24,Package,Extended_Hour,2017-12-20,4,Valle Silbador,Haiit Hotel,WSP-19331,420,630.0
+Daily,Regular_season,2018-01-25,Package,Full_day,2018-02-13,4,Valle Silbador,Ridossan Hotel,WSP-19333,400,600.0
+Daily,Outside_season,2018-05-17,Online,Half_day,2018-07-10,4,Valle Silbador,False,WSP-19337,480,720.0
+Daily,Outside_season,2018-05-16,Online,Full_day,2018-05-04,4,Valle Silbador,False,WSP-19346,480,720.0
+Daily,Regular_season,2019-01-28,Online,Half_day,2019-02-21,4,Valle Silbador,False,WSP-19347,480,720.0
+Daily,Outside_season,2017-07-19,Online,Full_day,2017-08-06,4,Valle Silbador,False,WSP-19353,480,720.0
+Daily,Outside_season,2018-09-11,Online,Half_day,2018-07-20,4,Valle Silbador,False,WSP-19373,480,720.0
+Red HEROIC,Regular_season,2019-02-24,Red HEROIC,Full_day,2019-02-21,4,Montaña Panadero,False,WSP-19396,560,840.0
+Daily,Regular_season,2018-02-01,Online,Full_day,2018-02-07,4,Valle Silbador,False,WSP-19400,480,720.0
+Daily,Regular_season,2018-01-06,Online,Full_day,2018-01-11,4,Valle Silbador,False,WSP-19406,480,720.0
+Red HEROIC,Regular_season,2019-01-03,Red HEROIC,Full_day,2019-02-02,4,Cresta Velo,False,WSP-19413,560,840.0
+Red HEROIC,Regular_season,2019-02-14,Red HEROIC,Full_day,2019-03-17,4,Monte Japón,False,WSP-19446,560,840.0
+Daily,Regular_season,2018-03-16,Online,Extended_Hour,2018-03-09,4,Valle Silbador,False,WSP-19461,480,720.0
+Red HEROIC,Outside_season,2017-08-14,Red HEROIC,Full_day,2017-04-15,4,Ski Comanche,False,WSP-19468,560,840.0
+Red HEROIC,Regular_season,2017-12-02,Red HEROIC,Full_day,2018-01-22,4,Cresta Velo,False,WSP-19473,560,840.0
+Red HEROIC,Regular_season,2019-03-23,Red HEROIC,Full_day,2019-03-21,4,Puente Roto,False,WSP-19480,560,840.0
+Daily,Regular_season,2018-02-27,Online,Half_day,2018-03-18,4,Valle Silbador,False,WSP-19483,480,720.0
+Red HEROIC,Outside_season,2017-11-06,Red HEROIC,Full_day,2017-07-10,4,Ski Comanche,False,WSP-19493,560,840.0
+Daily,Regular_season,2019-01-02,Package,Extended_Hour,2019-01-02,4,Valle Silbador,OI Hotels,WSP-19497,420,630.0
+Daily,Regular_season,2018-03-22,Online,Full_day,2018-03-18,4,Valle Silbador,False,WSP-19518,480,720.0
+Daily,Regular_season,2018-03-03,Package,Full_day,2018-03-02,4,Valle Silbador,Elton Hotel,WSP-19522,440,660.0
+Daily,Regular_season,2018-02-16,Online,Full_day,2018-03-19,4,Valle Silbador,False,WSP-19527,480,720.0
+Red HEROIC,Regular_season,2018-12-04,Red HEROIC,Full_day,2018-11-25,4,Monte Japón,False,WSP-19529,560,840.0
+Daily,Outside_season,2017-09-08,Package,Full_day,2017-04-13,4,Valle Silbador,Elton Hotel,WSP-19539,440,660.0
+Daily,Regular_season,2019-03-04,Package,Full_day,2019-03-21,4,Valle Silbador,Ridossan Hotel,WSP-19545,400,600.0
+Red HEROIC,Regular_season,2018-12-29,Red HEROIC,Full_day,2019-02-01,4,Montaña Panadero,False,WSP-19559,560,840.0
+Daily,Regular_season,2018-01-17,Package,Extended_Hour,2018-01-20,4,Valle Silbador,Elton Hotel,WSP-19568,440,660.0
+Daily,Regular_season,2019-01-07,Online,Half_day,2019-01-23,4,Valle Silbador,False,WSP-19587,480,720.0
+Daily,Outside_season,2018-07-27,Package,Full_day,2018-07-08,4,Valle Silbador,Elton Hotel,WSP-19594,440,660.0
+Daily,Outside_season,2018-05-06,Package,Full_day,2018-05-26,4,Valle Silbador,Ski Inn,WSP-19668,300,450.0
+Red HEROIC,Outside_season,2017-07-29,Red HEROIC,Full_day,2017-07-23,4,Puente Roto,False,WSP-19713,560,840.0
+Red HEROIC,Regular_season,2019-03-20,Red HEROIC,Full_day,2019-03-12,4,Montaña Panadero,False,WSP-19727,560,840.0
+Daily,Outside_season,2017-09-01,Package,Extended_Hour,2017-04-11,4,Valle Silbador,Elton Hotel,WSP-19749,440,660.0
+Daily,Regular_season,2018-03-06,On_site,Full_day,2018-02-25,4,Valle Silbador,False,WSP-19766,480,720.0
+Daily,Regular_season,2018-03-18,Online,Full_day,2018-03-18,4,Valle Silbador,False,WSP-19783,480,720.0
+Daily,Regular_season,2018-11-22,On_site,Full_day,2018-12-03,4,Valle Silbador,False,WSP-19808,480,720.0
+Daily,Regular_season,2018-03-02,Online,Full_day,2018-02-22,4,Valle Silbador,False,WSP-19811,480,720.0
+Red HEROIC,Regular_season,2018-12-02,Red HEROIC,Full_day,2019-01-19,4,Monte Japón,False,WSP-19832,560,840.0
+Red HEROIC,Regular_season,2017-11-23,Red HEROIC,Full_day,2018-03-11,4,Montaña Panadero,False,WSP-19834,560,840.0
+Daily,Regular_season,2018-12-25,Package,Full_day,2019-02-27,4,Valle Silbador,OI Hotels,WSP-19835,420,630.0
+Daily,Regular_season,2019-01-24,Online,Half_day,2019-02-18,4,Valle Silbador,False,WSP-19856,480,720.0
+Red HEROIC,Regular_season,2018-02-04,Red HEROIC,Full_day,2018-03-20,4,Monte Japón,False,WSP-19868,560,840.0
+Red HEROIC,Regular_season,2019-01-29,Red HEROIC,Full_day,2019-03-13,4,Puente Roto,False,WSP-19876,560,840.0
+Daily,Outside_season,2017-11-07,Package,Full_day,2017-07-21,4,Valle Silbador,OI Hotels,WSP-19879,420,630.0
+Red HEROIC,Regular_season,2019-02-07,Red HEROIC,Full_day,2019-02-13,4,Cresta Velo,False,WSP-19905,560,840.0
+Daily,Regular_season,2019-03-24,Online,Full_day,2019-03-18,4,Valle Silbador,False,WSP-19914,480,720.0
+Daily,Regular_season,2019-01-21,Package,Half_day,2019-01-23,4,Valle Silbador,Haiit Hotel,WSP-19927,420,630.0
+Daily,Regular_season,2018-01-10,Online,Full_day,2018-02-02,4,Valle Silbador,False,WSP-19937,480,720.0
+Red HEROIC,Regular_season,2018-12-12,Red HEROIC,Full_day,2018-12-31,4,Cresta Velo,False,WSP-19939,560,840.0
+Daily,Outside_season,2017-07-28,Online,Half_day,2017-04-03,4,Valle Silbador,False,WSP-19945,480,720.0
+Daily,Outside_season,2017-06-27,Package,Full_day,2017-05-18,4,Valle Silbador,Elton Hotel,WSP-19951,440,660.0
+Daily,Outside_season,2018-04-15,On_site,Full_day,2018-08-02,4,Valle Silbador,False,WSP-19969,480,720.0
+Daily,Regular_season,2017-12-13,Online,Full_day,2017-12-29,4,Valle Silbador,False,WSP-19977,480,720.0
+Red HEROIC,Outside_season,2018-04-04,Red HEROIC,Full_day,2018-04-15,4,Montaña Panadero,False,WSP-19983,560,840.0
+Daily,Regular_season,2018-12-21,Online,Full_day,2019-02-10,4,Valle Silbador,False,WSP-19994,480,720.0
+Daily,Regular_season,2018-03-24,Online,Full_day,2018-03-19,3,Valle Silbador,False,WSP-19095,360,540.0
+Daily,Outside_season,2018-04-07,Online,Full_day,2018-08-04,3,Valle Silbador,False,WSP-19110,360,540.0
+Daily,Regular_season,2019-01-13,Online,Full_day,2019-01-11,3,Valle Silbador,False,WSP-19113,360,540.0
+Daily,Regular_season,2018-03-29,Online,Half_day,2018-03-23,3,Valle Silbador,False,WSP-19129,360,540.0
+Red HEROIC,Regular_season,2018-11-20,Red HEROIC,Full_day,2018-11-28,3,Cresta Velo,False,WSP-19140,420,630.0
+Daily,Regular_season,2017-12-20,Online,Half_day,2018-03-14,3,Valle Silbador,False,WSP-19144,360,540.0
+Daily,Regular_season,2018-03-25,Online,Half_day,2018-03-19,3,Valle Silbador,False,WSP-19145,360,540.0
+Daily,Regular_season,2018-02-16,Package,Full_day,2018-03-09,3,Valle Silbador,Elton Hotel,WSP-19149,330,495.0
+Red HEROIC,Regular_season,2018-11-19,Red HEROIC,Full_day,2019-01-13,3,Cresta Velo,False,WSP-19157,420,630.0
+Daily,Regular_season,2018-01-29,Online,Full_day,2018-02-17,3,Valle Silbador,False,WSP-19170,360,540.0
+Red HEROIC,Regular_season,2018-12-18,Red HEROIC,Full_day,2018-12-17,3,Montaña Panadero,False,WSP-19174,420,630.0
+Red HEROIC,Regular_season,2017-12-28,Red HEROIC,Full_day,2018-03-19,3,Puente Roto,False,WSP-19176,420,630.0
+Daily,Regular_season,2018-01-27,Online,Extended_Hour,2018-02-21,3,Valle Silbador,False,WSP-19187,360,540.0
+Daily,Regular_season,2018-12-29,On_site,Full_day,2019-01-17,3,Valle Silbador,False,WSP-19203,360,540.0
+Daily,Outside_season,2017-05-24,On_site,Full_day,2017-07-11,3,Valle Silbador,False,WSP-19210,360,540.0
+Daily,Regular_season,2017-12-01,Online,Full_day,2017-12-10,3,Valle Silbador,False,WSP-19220,360,540.0
+Daily,Regular_season,2018-02-14,Online,Full_day,2018-03-06,3,Valle Silbador,False,WSP-19235,360,540.0
+Daily,Regular_season,2019-02-16,On_site,Full_day,2019-02-16,3,Valle Silbador,False,WSP-19247,360,540.0
+Red HEROIC,Regular_season,2019-02-02,Red HEROIC,Full_day,2019-03-12,3,Montaña Panadero,False,WSP-19248,420,630.0
+Daily,Regular_season,2018-01-19,On_site,Extended_Hour,2018-02-28,3,Valle Silbador,False,WSP-19252,360,540.0
+Daily,Regular_season,2019-02-06,Package,Full_day,2019-02-07,3,Valle Silbador,Elton Hotel,WSP-19262,330,495.0
+Daily,Regular_season,2019-02-19,Online,Extended_Hour,2019-03-09,3,Valle Silbador,False,WSP-19269,360,540.0
+Daily,Regular_season,2018-11-16,Online,Full_day,2019-03-07,3,Valle Silbador,False,WSP-19284,360,540.0
+Daily,Regular_season,2019-03-25,Package,Full_day,2019-03-23,3,Valle Silbador,Elton Hotel,WSP-19317,330,495.0
+Red HEROIC,Regular_season,2018-02-27,Red HEROIC,Full_day,2018-02-18,3,Montaña Panadero,False,WSP-19335,420,630.0
+Daily,Outside_season,2017-07-14,Package,Full_day,2017-04-24,3,Valle Silbador,Haiit Hotel,WSP-19345,315,472.5
+Daily,Regular_season,2019-04-01,Online,Full_day,2019-03-23,3,Valle Silbador,False,WSP-19374,360,540.0
+Daily,Regular_season,2018-02-15,Package,Full_day,2018-02-10,3,Valle Silbador,Elton Hotel,WSP-19385,330,495.0
+Daily,Regular_season,2018-12-09,Online,Full_day,2018-12-17,3,Valle Silbador,False,WSP-19404,360,540.0
+Daily,Regular_season,2018-02-16,Package,Extended_Hour,2018-02-20,3,Valle Silbador,Elton Hotel,WSP-19405,330,495.0
+Red HEROIC,Regular_season,2018-12-19,Red HEROIC,Full_day,2019-03-12,3,Montaña Panadero,False,WSP-19410,420,630.0
+Red HEROIC,Outside_season,2018-11-14,Red HEROIC,Full_day,2018-07-10,3,Cresta Velo,False,WSP-19425,420,630.0
+Daily,Outside_season,2017-04-20,Package,Full_day,2017-04-21,3,Valle Silbador,Elton Hotel,WSP-19443,330,495.0
+Daily,Regular_season,2018-01-09,Online,Extended_Hour,2018-03-01,3,Valle Silbador,False,WSP-19444,360,540.0
+Daily,Regular_season,2018-02-24,Online,Full_day,2018-03-12,3,Valle Silbador,False,WSP-19448,360,540.0
+Daily,Regular_season,2018-12-20,Online,Full_day,2018-12-25,3,Valle Silbador,False,WSP-19459,360,540.0
+Daily,Regular_season,2018-03-17,Online,Half_day,2018-03-09,3,Valle Silbador,False,WSP-19479,360,540.0
+Daily,Regular_season,2019-03-28,Online,Full_day,2019-03-20,3,Valle Silbador,False,WSP-19481,360,540.0
+Red HEROIC,Regular_season,2018-01-17,Red HEROIC,Full_day,2018-03-16,3,Cresta Velo,False,WSP-19482,420,630.0
+Daily,Regular_season,2019-02-11,Online,Full_day,2019-02-23,3,Valle Silbador,False,WSP-19484,360,540.0
+Daily,Regular_season,2018-03-24,Online,Full_day,2018-03-23,3,Valle Silbador,False,WSP-19510,360,540.0
+Red HEROIC,Regular_season,2019-02-24,Red HEROIC,Full_day,2019-02-23,3,Montaña Panadero,False,WSP-19525,420,630.0
+Daily,Regular_season,2018-12-27,Online,Full_day,2018-12-18,3,Valle Silbador,False,WSP-19546,360,540.0
+Red HEROIC,Regular_season,2018-01-15,Red HEROIC,Full_day,2018-02-05,3,Puente Roto,False,WSP-19548,420,630.0
+Daily,Regular_season,2018-03-10,Online,Full_day,2018-03-18,3,Valle Silbador,False,WSP-19562,360,540.0
+Red HEROIC,Outside_season,2017-06-03,Red HEROIC,Full_day,2017-04-28,3,Montaña Panadero,False,WSP-19563,420,630.0
+Daily,Regular_season,2018-12-17,Online,Full_day,2019-02-10,3,Valle Silbador,False,WSP-19570,360,540.0
+Daily,Regular_season,2018-01-04,Package,Full_day,2018-01-09,3,Valle Silbador,Haiit Hotel,WSP-19574,315,472.5
+Red HEROIC,Regular_season,2018-12-31,Red HEROIC,Full_day,2018-12-29,3,Cresta Velo,False,WSP-19593,420,630.0
+Red HEROIC,Regular_season,2018-12-27,Red HEROIC,Full_day,2019-01-16,3,Puente Roto,False,WSP-19618,420,630.0
+Daily,Regular_season,2018-03-22,Package,Half_day,2018-03-21,3,Valle Silbador,Elton Hotel,WSP-19625,330,495.0
+Daily,Regular_season,2017-12-22,On_site,Full_day,2018-02-20,3,Valle Silbador,False,WSP-19627,360,540.0
+Daily,Regular_season,2019-02-15,Online,Extended_Hour,2019-03-22,3,Valle Silbador,False,WSP-19629,360,540.0
+Daily,Outside_season,2017-11-10,Online,Extended_Hour,2017-04-11,3,Valle Silbador,False,WSP-19632,360,540.0
+Daily,Regular_season,2018-11-27,Package,Full_day,2019-03-09,3,Valle Silbador,Ridossan Hotel,WSP-19673,300,450.0
+Daily,Regular_season,2017-11-24,Online,Extended_Hour,2018-02-24,3,Valle Silbador,False,WSP-19688,360,540.0
+Daily,Regular_season,2019-01-23,Online,Half_day,2019-03-18,3,Valle Silbador,False,WSP-19711,360,540.0
+Daily,Regular_season,2018-03-07,Package,Full_day,2018-03-08,3,Valle Silbador,Haiit Hotel,WSP-19718,315,472.5
+Daily,Regular_season,2019-03-29,Online,Half_day,2019-03-22,3,Valle Silbador,False,WSP-19721,360,540.0
+Daily,Regular_season,2018-03-06,On_site,Full_day,2018-03-05,3,Valle Silbador,False,WSP-19724,360,540.0
+Daily,Regular_season,2018-02-18,Online,Full_day,2018-03-08,3,Valle Silbador,False,WSP-19734,360,540.0
+Daily,Regular_season,2018-04-01,Online,Half_day,2018-03-23,3,Valle Silbador,False,WSP-19776,360,540.0
+Daily,Regular_season,2018-11-29,Online,Full_day,2018-12-10,3,Valle Silbador,False,WSP-19786,360,540.0
+Daily,Outside_season,2018-05-13,Online,Half_day,2018-06-13,3,Valle Silbador,False,WSP-19792,360,540.0
+Daily,Outside_season,2017-08-12,Package,Full_day,2017-05-13,3,Valle Silbador,Haiit Hotel,WSP-19813,315,472.5
+Daily,Regular_season,2019-01-24,Online,Full_day,2019-02-13,3,Valle Silbador,False,WSP-19849,360,540.0
+Red HEROIC,Regular_season,2019-02-22,Red HEROIC,Full_day,2019-03-10,3,Puente Roto,False,WSP-19850,420,630.0
+Daily,Regular_season,2018-02-09,Online,Extended_Hour,2018-02-01,3,Valle Silbador,False,WSP-19855,360,540.0
+Daily,Outside_season,2018-11-07,Online,Extended_Hour,2018-06-23,3,Valle Silbador,False,WSP-19867,360,540.0
+Daily,Regular_season,2017-11-30,Online,Full_day,2018-02-11,3,Valle Silbador,False,WSP-19880,360,540.0
+Daily,Regular_season,2018-02-07,Package,Full_day,2018-03-16,3,Valle Silbador,Ridossan Hotel,WSP-19931,300,450.0
+Daily,Regular_season,2017-11-16,Online,Full_day,2017-12-16,3,Valle Silbador,False,WSP-19934,360,540.0
+Daily,Regular_season,2019-02-22,Online,Half_day,2019-03-16,3,Valle Silbador,False,WSP-19961,360,540.0
+Red HEROIC,Regular_season,2017-11-15,Red HEROIC,Full_day,2018-01-13,3,Montaña Panadero,False,WSP-19980,420,630.0
+Red HEROIC,Regular_season,2019-01-07,Red HEROIC,Full_day,2019-01-07,3,Ski Comanche,False,WSP-19990,420,630.0
+Daily,Regular_season,2019-03-07,Online,Full_day,2019-03-09,3,Valle Silbador,False,WSP-19997,360,540.0
+Daily,Regular_season,2017-12-25,Online,Full_day,2017-12-26,2,Valle Silbador,False,WSP-19103,240,360.0
+Red HEROIC,Regular_season,2018-03-01,Red HEROIC,Full_day,2018-02-26,2,Montaña Panadero,False,WSP-19108,280,420.0
+Daily,Outside_season,2018-10-18,On_site,Extended_Hour,2018-06-05,2,Valle Silbador,False,WSP-19116,240,360.0
+Daily,Regular_season,2019-01-29,Package,Full_day,2019-03-01,2,Valle Silbador,Ridossan Hotel,WSP-19119,200,300.0
+Red HEROIC,Regular_season,2018-03-23,Red HEROIC,Full_day,2018-03-21,2,Puente Roto,False,WSP-19121,280,420.0
+Daily,Regular_season,2018-12-18,Online,Full_day,2019-02-27,2,Valle Silbador,False,WSP-19124,240,360.0
+Daily,Outside_season,2017-09-20,Package,Full_day,2017-05-03,2,Valle Silbador,Elton Hotel,WSP-19134,220,330.0
+Daily,Regular_season,2018-01-04,Online,Full_day,2018-02-08,2,Valle Silbador,False,WSP-19147,240,360.0
+Red HEROIC,Regular_season,2018-03-26,Red HEROIC,Full_day,2018-03-21,2,Cresta Velo,False,WSP-19153,280,420.0
+Daily,Outside_season,2017-04-08,Package,Half_day,2017-06-02,2,Valle Silbador,OI Hotels,WSP-19159,210,315.0
+Daily,Regular_season,2018-12-04,Online,Full_day,2018-12-31,2,Valle Silbador,False,WSP-19177,240,360.0
+Daily,Outside_season,2018-05-12,Package,Half_day,2018-04-29,2,Valle Silbador,Elton Hotel,WSP-19178,220,330.0
+Red HEROIC,Regular_season,2017-12-28,Red HEROIC,Full_day,2018-02-23,2,Puente Roto,False,WSP-19204,280,420.0
+Red HEROIC,Regular_season,2019-04-01,Red HEROIC,Full_day,2019-03-23,2,Montaña Panadero,False,WSP-19232,280,420.0
+Daily,Regular_season,2017-11-27,Online,Full_day,2017-12-18,2,Valle Silbador,False,WSP-19233,240,360.0
+Daily,Regular_season,2018-02-07,Online,Full_day,2018-02-03,2,Valle Silbador,False,WSP-19236,240,360.0
+Daily,Regular_season,2018-11-22,Online,Full_day,2018-11-27,2,Valle Silbador,False,WSP-19250,240,360.0
+Red HEROIC,Regular_season,2019-02-12,Red HEROIC,Full_day,2019-02-12,2,Montaña Panadero,False,WSP-19253,280,420.0
+Daily,Regular_season,2018-01-23,Package,Full_day,2018-01-17,2,Valle Silbador,Ridossan Hotel,WSP-19263,200,300.0
+Daily,Outside_season,2017-08-21,On_site,Full_day,2017-05-01,2,Valle Silbador,False,WSP-19268,240,360.0
+Daily,Regular_season,2018-02-26,Online,Full_day,2018-03-03,2,Valle Silbador,False,WSP-19270,240,360.0
+Daily,Regular_season,2017-12-06,Online,Full_day,2018-02-12,2,Valle Silbador,False,WSP-19271,240,360.0
+Red HEROIC,Outside_season,2018-06-14,Red HEROIC,Full_day,2018-06-12,2,Puente Roto,False,WSP-19277,280,420.0
+Red HEROIC,Regular_season,2018-03-01,Red HEROIC,Full_day,2018-02-27,2,Puente Roto,False,WSP-19320,280,420.0
+Daily,Regular_season,2018-02-10,Online,Extended_Hour,2018-03-10,2,Valle Silbador,False,WSP-19325,240,360.0
+Red HEROIC,Outside_season,2018-05-22,Red HEROIC,Full_day,2018-07-26,2,Montaña Panadero,False,WSP-19338,280,420.0
+Daily,Regular_season,2019-02-22,On_site,Full_day,2019-03-12,2,Valle Silbador,False,WSP-19339,240,360.0
+Daily,Regular_season,2018-02-24,Package,Full_day,2018-02-24,2,Valle Silbador,Elton Hotel,WSP-19352,220,330.0
+Daily,Regular_season,2018-11-23,Online,Half_day,2019-01-22,2,Valle Silbador,False,WSP-19368,240,360.0
+Daily,Regular_season,2018-03-12,Online,Extended_Hour,2018-03-10,2,Valle Silbador,False,WSP-19384,240,360.0
+Daily,Outside_season,2017-04-05,Online,Full_day,2017-07-11,2,Valle Silbador,False,WSP-19389,240,360.0
+Red HEROIC,Regular_season,2019-03-24,Red HEROIC,Full_day,2019-03-23,2,Cresta Velo,False,WSP-19408,280,420.0
+Daily,Regular_season,2019-01-23,Online,Extended_Hour,2019-02-03,2,Valle Silbador,False,WSP-19419,240,360.0
+Red HEROIC,Regular_season,2018-03-19,Red HEROIC,Full_day,2018-03-10,2,Montaña Panadero,False,WSP-19430,280,420.0
+Daily,Regular_season,2018-03-11,Package,Full_day,2018-03-20,2,Valle Silbador,Elton Hotel,WSP-19449,220,330.0
+Red HEROIC,Regular_season,2018-11-17,Red HEROIC,Full_day,2019-01-18,2,Montaña Panadero,False,WSP-19458,280,420.0
+Daily,Outside_season,2018-04-25,Online,Full_day,2018-05-09,2,Valle Silbador,False,WSP-19469,240,360.0
+Daily,Regular_season,2019-02-18,Package,Extended_Hour,2019-02-24,2,Valle Silbador,Haiit Hotel,WSP-19476,210,315.0
+Daily,Regular_season,2018-11-27,On_site,Half_day,2018-12-24,2,Valle Silbador,False,WSP-19499,240,360.0
+Daily,Regular_season,2017-12-15,Online,Full_day,2018-02-25,2,Valle Silbador,False,WSP-19528,240,360.0
+Red HEROIC,Regular_season,2017-11-22,Red HEROIC,Full_day,2018-01-22,2,Cresta Velo,False,WSP-19536,280,420.0
+Daily,Regular_season,2019-01-26,Online,Full_day,2019-02-04,2,Valle Silbador,False,WSP-19547,240,360.0
+Daily,Regular_season,2019-01-05,Online,Full_day,2019-01-18,2,Valle Silbador,False,WSP-19554,240,360.0
+Daily,Regular_season,2017-12-01,Online,Half_day,2017-12-17,2,Valle Silbador,False,WSP-19606,240,360.0
+Red HEROIC,Outside_season,2018-10-12,Red HEROIC,Full_day,2018-07-04,2,Monte Japón,False,WSP-19636,280,420.0
+Daily,Regular_season,2019-01-01,Online,Full_day,2019-01-30,2,Valle Silbador,False,WSP-19642,240,360.0
+Daily,Regular_season,2018-01-12,Online,Full_day,2018-01-13,2,Valle Silbador,False,WSP-19643,240,360.0
+Daily,Outside_season,2018-08-11,Online,Half_day,2018-04-14,2,Valle Silbador,False,WSP-19654,240,360.0
+Red HEROIC,Regular_season,2019-01-24,Red HEROIC,Full_day,2019-01-30,2,Cresta Velo,False,WSP-19695,280,420.0
+Daily,Regular_season,2018-11-17,Online,Half_day,2019-01-29,2,Valle Silbador,False,WSP-19702,240,360.0
+Daily,Regular_season,2019-01-31,Online,Full_day,2019-02-16,2,Valle Silbador,False,WSP-19710,240,360.0
+Red HEROIC,Regular_season,2018-01-09,Red HEROIC,Full_day,2018-02-06,2,Ski Comanche,False,WSP-19716,280,420.0
+Daily,Regular_season,2017-11-21,Online,Full_day,2018-01-22,2,Valle Silbador,False,WSP-19747,240,360.0
+Daily,Regular_season,2017-12-29,Online,Full_day,2018-02-10,2,Valle Silbador,False,WSP-19754,240,360.0
+Daily,Regular_season,2017-12-22,Online,Full_day,2018-02-13,2,Valle Silbador,False,WSP-19764,240,360.0
+Red HEROIC,Regular_season,2018-01-15,Red HEROIC,Full_day,2018-03-09,2,Montaña Panadero,False,WSP-19771,280,420.0
+Daily,Regular_season,2019-03-14,Online,Full_day,2019-03-13,2,Valle Silbador,False,WSP-19775,240,360.0
+Daily,Outside_season,2017-07-12,Package,Full_day,2017-04-30,2,Valle Silbador,Haiit Hotel,WSP-19778,210,315.0
+Daily,Regular_season,2018-11-28,Online,Full_day,2018-12-06,2,Valle Silbador,False,WSP-19781,240,360.0
+Daily,Regular_season,2017-11-18,Package,Extended_Hour,2017-12-12,2,Valle Silbador,OI Hotels,WSP-19784,210,315.0
+Red HEROIC,Outside_season,2017-11-07,Red HEROIC,Full_day,2017-04-08,2,Ski Comanche,False,WSP-19785,280,420.0
+Daily,Outside_season,2018-08-28,Package,Full_day,2018-05-20,2,Valle Silbador,OI Hotels,WSP-19826,210,315.0
+Daily,Regular_season,2017-12-23,Online,Full_day,2017-12-25,2,Valle Silbador,False,WSP-19829,240,360.0
+Daily,Regular_season,2019-02-14,Online,Full_day,2019-02-21,2,Valle Silbador,False,WSP-19839,240,360.0
+Daily,Regular_season,2019-01-16,On_site,Full_day,2019-03-03,2,Valle Silbador,False,WSP-19842,240,360.0
+Daily,Regular_season,2018-12-29,Online,Half_day,2019-01-02,2,Valle Silbador,False,WSP-19846,240,360.0
+Daily,Outside_season,2018-08-13,Package,Full_day,2018-06-09,2,Valle Silbador,Ridossan Hotel,WSP-19853,200,300.0
+Red HEROIC,Outside_season,2017-11-12,Red HEROIC,Full_day,2017-04-29,2,Puente Roto,False,WSP-19857,280,420.0
+Daily,Regular_season,2018-11-26,Online,Half_day,2018-12-30,2,Valle Silbador,False,WSP-19872,240,360.0
+Red HEROIC,Regular_season,2019-02-21,Red HEROIC,Full_day,2019-02-22,2,Montaña Panadero,False,WSP-19877,280,420.0
+Daily,Regular_season,2018-01-14,Online,Full_day,2018-03-21,2,Valle Silbador,False,WSP-19884,240,360.0
+Daily,Regular_season,2019-02-20,Online,Half_day,2019-02-24,2,Valle Silbador,False,WSP-19889,240,360.0
+Daily,Regular_season,2019-03-14,Package,Full_day,2019-03-22,2,Valle Silbador,Elton Hotel,WSP-19893,220,330.0
+Red HEROIC,Regular_season,2019-02-05,Red HEROIC,Full_day,2019-02-19,2,Cresta Velo,False,WSP-19899,280,420.0
+Daily,Regular_season,2018-12-03,Online,Full_day,2019-01-08,2,Valle Silbador,False,WSP-19912,240,360.0
+Red HEROIC,Regular_season,2018-02-06,Red HEROIC,Full_day,2018-02-20,2,Puente Roto,False,WSP-19929,280,420.0
+Daily,Regular_season,2018-12-11,Online,Full_day,2019-01-12,2,Valle Silbador,False,WSP-19941,240,360.0
+Red HEROIC,Regular_season,2019-01-17,Red HEROIC,Full_day,2019-02-21,2,Cresta Velo,False,WSP-19946,280,420.0
+Daily,Regular_season,2019-01-09,Online,Extended_Hour,2019-03-22,2,Valle Silbador,False,WSP-19949,240,360.0
+Daily,Outside_season,2017-08-13,Package,Full_day,2017-07-06,2,Valle Silbador,Elton Hotel,WSP-19954,220,330.0
+Red HEROIC,Regular_season,2018-03-09,Red HEROIC,Full_day,2018-03-09,2,Monte Japón,False,WSP-19957,280,420.0
+Daily,Regular_season,2017-12-01,Online,Full_day,2018-01-07,2,Valle Silbador,False,WSP-19974,240,360.0
+Daily,Regular_season,2019-02-03,Online,Full_day,2019-03-02,2,Valle Silbador,False,WSP-19989,240,360.0
+Red HEROIC,Outside_season,2018-06-08,Red HEROIC,Full_day,2018-06-27,1,Ski Comanche,False,WSP-19099,140,210.0
+Daily,Outside_season,2017-08-09,On_site,Full_day,2017-06-29,1,Valle Silbador,False,WSP-19100,120,180.0
+Red HEROIC,Regular_season,2018-12-04,Red HEROIC,Full_day,2019-02-27,1,Montaña Panadero,False,WSP-19105,140,210.0
+Daily,Regular_season,2018-03-17,Online,Full_day,2018-03-19,1,Valle Silbador,False,WSP-19106,120,180.0
+Red HEROIC,Regular_season,2019-03-22,Red HEROIC,Full_day,2019-03-18,1,Cresta Velo,False,WSP-19109,140,210.0
+Daily,Outside_season,2017-05-22,Online,Half_day,2017-05-22,1,Valle Silbador,False,WSP-19112,120,180.0
+Red HEROIC,Regular_season,2019-02-05,Red HEROIC,Full_day,2019-02-11,1,Puente Roto,False,WSP-19117,140,210.0
+Daily,Regular_season,2018-03-01,Online,Full_day,2018-03-14,1,Valle Silbador,False,WSP-19118,120,180.0
+Daily,Regular_season,2019-03-08,Online,Full_day,2019-03-15,1,Valle Silbador,False,WSP-19139,120,180.0
+Daily,Regular_season,2019-03-01,Package,Half_day,2019-03-06,1,Valle Silbador,Elton Hotel,WSP-19181,110,165.0
+Daily,Regular_season,2018-03-09,Online,Full_day,2018-03-01,1,Valle Silbador,False,WSP-19243,120,180.0
+Daily,Outside_season,2017-04-10,Online,Full_day,2017-06-12,1,Valle Silbador,False,WSP-19244,120,180.0
+Daily,Regular_season,2018-12-13,Online,Full_day,2019-02-15,1,Valle Silbador,False,WSP-19258,120,180.0
+Daily,Regular_season,2019-03-24,Online,Full_day,2019-03-20,1,Valle Silbador,False,WSP-19259,120,180.0
+Red HEROIC,Regular_season,2018-02-19,Red HEROIC,Full_day,2018-02-16,1,Montaña Panadero,False,WSP-19261,140,210.0
+Daily,Regular_season,2019-02-03,On_site,Full_day,2019-02-22,1,Valle Silbador,False,WSP-19264,120,180.0
+Daily,Regular_season,2017-12-14,Package,Extended_Hour,2017-12-12,1,Valle Silbador,Ski Inn,WSP-19293,75,112.5
+Daily,Regular_season,2018-02-17,On_site,Half_day,2018-03-04,1,Valle Silbador,False,WSP-19294,120,180.0
+Red HEROIC,Regular_season,2019-02-07,Red HEROIC,Full_day,2019-03-23,1,Montaña Panadero,False,WSP-19308,140,210.0
+Red HEROIC,Outside_season,2017-09-02,Red HEROIC,Full_day,2017-06-13,1,Cresta Velo,False,WSP-19311,140,210.0
+Daily,Regular_season,2018-01-31,Package,Half_day,2018-02-08,1,Valle Silbador,Ski Inn,WSP-19318,75,112.5
+Red HEROIC,Regular_season,2018-03-28,Red HEROIC,Full_day,2018-03-20,1,Cresta Velo,False,WSP-19326,140,210.0
+Daily,Regular_season,2017-11-20,On_site,Half_day,2018-03-06,1,Valle Silbador,False,WSP-19362,120,180.0
+Daily,Regular_season,2018-12-01,Package,Full_day,2019-02-09,1,Valle Silbador,Elton Hotel,WSP-19371,110,165.0
+Daily,Regular_season,2018-01-19,Package,Full_day,2018-01-19,1,Valle Silbador,Elton Hotel,WSP-19372,110,165.0
+Red HEROIC,Regular_season,2019-02-18,Red HEROIC,Full_day,2019-03-12,1,Puente Roto,False,WSP-19383,140,210.0
+Daily,Regular_season,2018-03-27,Online,Full_day,2018-03-20,1,Valle Silbador,False,WSP-19386,120,180.0
+Daily,Regular_season,2018-12-30,Online,Extended_Hour,2019-03-17,1,Valle Silbador,False,WSP-19409,120,180.0
+Daily,Regular_season,2019-03-31,Online,Full_day,2019-03-22,1,Valle Silbador,False,WSP-19411,120,180.0
+Daily,Regular_season,2017-12-29,Package,Full_day,2018-03-04,1,Valle Silbador,Elton Hotel,WSP-19431,110,165.0
+Daily,Outside_season,2018-08-08,Package,Full_day,2018-04-10,1,Valle Silbador,Elton Hotel,WSP-19434,110,165.0
+Daily,Regular_season,2017-12-22,Online,Extended_Hour,2018-03-23,1,Valle Silbador,False,WSP-19435,120,180.0
+Red HEROIC,Regular_season,2018-11-26,Red HEROIC,Full_day,2019-02-12,1,Ski Comanche,False,WSP-19445,140,210.0
+Red HEROIC,Regular_season,2019-03-05,Red HEROIC,Full_day,2019-03-12,1,Montaña Panadero,False,WSP-19451,140,210.0
+Daily,Outside_season,2018-07-19,Package,Full_day,2018-06-23,1,Valle Silbador,Elton Hotel,WSP-19452,110,165.0
+Daily,Regular_season,2019-02-16,Online,Full_day,2019-02-28,1,Valle Silbador,False,WSP-19477,120,180.0
+Daily,Regular_season,2018-11-26,Package,Full_day,2019-01-21,1,Valle Silbador,Ridossan Hotel,WSP-19509,100,150.0
+Daily,Regular_season,2019-03-17,Package,Full_day,2019-03-08,1,Valle Silbador,Haiit Hotel,WSP-19511,105,157.5
+Red HEROIC,Outside_season,2018-04-26,Red HEROIC,Full_day,2018-04-30,1,Montaña Panadero,False,WSP-19519,140,210.0
+Daily,Regular_season,2019-01-24,Package,Full_day,2019-03-08,1,Valle Silbador,Elton Hotel,WSP-19531,110,165.0
+Daily,Regular_season,2018-02-08,On_site,Full_day,2018-03-17,1,Valle Silbador,False,WSP-19532,120,180.0
+Daily,Regular_season,2019-03-15,Online,Full_day,2019-03-19,1,Valle Silbador,False,WSP-19537,120,180.0
+Daily,Regular_season,2018-01-02,Package,Full_day,2018-03-22,1,Valle Silbador,Ridossan Hotel,WSP-19551,100,150.0
+Daily,Regular_season,2019-03-31,Online,Extended_Hour,2019-03-22,1,Valle Silbador,False,WSP-19556,120,180.0
+Daily,Regular_season,2019-01-22,Package,Extended_Hour,2019-01-18,1,Valle Silbador,Elton Hotel,WSP-19569,110,165.0
+Daily,Regular_season,2017-12-26,Online,Full_day,2018-01-28,1,Valle Silbador,False,WSP-19573,120,180.0
+Red HEROIC,Regular_season,2018-12-23,Red HEROIC,Full_day,2019-01-06,1,Cresta Velo,False,WSP-19576,140,210.0
+Daily,Regular_season,2019-02-20,Online,Full_day,2019-02-19,1,Valle Silbador,False,WSP-19582,120,180.0
+Daily,Regular_season,2018-03-19,On_site,Half_day,2018-03-15,1,Valle Silbador,False,WSP-19586,120,180.0
+Daily,Regular_season,2019-02-18,Package,Full_day,2019-03-07,1,Valle Silbador,Ridossan Hotel,WSP-19609,100,150.0
+Daily,Outside_season,2017-08-01,Online,Full_day,2017-07-12,1,Valle Silbador,False,WSP-19615,120,180.0
+Red HEROIC,Regular_season,2019-03-01,Red HEROIC,Full_day,2019-03-07,1,Cresta Velo,False,WSP-19622,140,210.0
+Daily,Regular_season,2019-03-07,Online,Full_day,2019-03-18,1,Valle Silbador,False,WSP-19633,120,180.0
+Daily,Regular_season,2019-03-09,Online,Extended_Hour,2019-03-17,1,Valle Silbador,False,WSP-19635,120,180.0
+Daily,Regular_season,2018-12-11,Online,Extended_Hour,2019-02-14,1,Valle Silbador,False,WSP-19656,120,180.0
+Daily,Regular_season,2018-02-27,Package,Full_day,2018-03-01,1,Valle Silbador,Elton Hotel,WSP-19657,110,165.0
+Daily,Regular_season,2018-03-30,Online,Full_day,2018-03-22,1,Valle Silbador,False,WSP-19661,120,180.0
+Red HEROIC,Regular_season,2018-02-21,Red HEROIC,Full_day,2018-02-17,1,Ski Comanche,False,WSP-19676,140,210.0
+Daily,Regular_season,2019-03-30,Package,Full_day,2019-03-22,1,Valle Silbador,Haiit Hotel,WSP-19678,105,157.5
+Daily,Regular_season,2018-01-20,Online,Full_day,2018-02-17,1,Valle Silbador,False,WSP-19683,120,180.0
+Red HEROIC,Regular_season,2018-03-12,Red HEROIC,Full_day,2018-03-12,1,Montaña Panadero,False,WSP-19684,140,210.0
+Red HEROIC,Regular_season,2018-12-18,Red HEROIC,Full_day,2019-02-21,1,Puente Roto,False,WSP-19687,140,210.0
+Daily,Outside_season,2018-08-11,Online,Extended_Hour,2018-07-15,1,Valle Silbador,False,WSP-19693,120,180.0
+Red HEROIC,Regular_season,2018-03-30,Red HEROIC,Full_day,2018-03-23,1,Cresta Velo,False,WSP-19697,140,210.0
+Daily,Regular_season,2018-01-23,Online,Full_day,2018-02-20,1,Valle Silbador,False,WSP-19699,120,180.0
+Daily,Regular_season,2018-01-24,Online,Extended_Hour,2018-01-23,1,Valle Silbador,False,WSP-19704,120,180.0
+Daily,Regular_season,2019-03-20,Package,Full_day,2019-03-18,1,Valle Silbador,Ridossan Hotel,WSP-19705,100,150.0
+Red HEROIC,Outside_season,2018-05-24,Red HEROIC,Full_day,2018-07-05,1,Montaña Panadero,False,WSP-19706,140,210.0
+Daily,Regular_season,2018-01-13,Package,Full_day,2018-03-14,1,Valle Silbador,Elton Hotel,WSP-19709,110,165.0
+Daily,Outside_season,2017-07-28,Online,Full_day,2017-06-29,1,Valle Silbador,False,WSP-19729,120,180.0
+Daily,Outside_season,2017-09-14,Online,Full_day,2017-06-07,1,Valle Silbador,False,WSP-19742,120,180.0
+Daily,Regular_season,2018-11-18,Online,Full_day,2019-03-12,1,Valle Silbador,False,WSP-19765,120,180.0
+Daily,Regular_season,2019-02-26,Online,Full_day,2019-02-27,1,Valle Silbador,False,WSP-19770,120,180.0
+Daily,Regular_season,2017-11-15,Package,Half_day,2018-03-05,1,Valle Silbador,Elton Hotel,WSP-19815,110,165.0
+Red HEROIC,Regular_season,2018-11-23,Red HEROIC,Full_day,2018-11-28,1,Cresta Velo,False,WSP-19816,140,210.0
+Daily,Outside_season,2017-08-09,Package,Full_day,2017-08-02,1,Valle Silbador,Ski Inn,WSP-19820,75,112.5
+Daily,Regular_season,2018-11-20,Online,Half_day,2019-02-10,1,Valle Silbador,False,WSP-19828,120,180.0
+Red HEROIC,Regular_season,2019-01-25,Red HEROIC,Full_day,2019-02-18,1,Montaña Panadero,False,WSP-19836,140,210.0
+Daily,Regular_season,2018-03-31,Online,Full_day,2018-03-22,1,Valle Silbador,False,WSP-19841,120,180.0
+Red HEROIC,Outside_season,2018-09-17,Red HEROIC,Full_day,2018-07-14,1,Cresta Velo,False,WSP-19845,140,210.0
+Red HEROIC,Regular_season,2018-11-28,Red HEROIC,Full_day,2019-01-11,1,Ski Comanche,False,WSP-19848,140,210.0
+Daily,Regular_season,2019-01-08,Online,Full_day,2019-01-08,1,Valle Silbador,False,WSP-19866,120,180.0
+Daily,Outside_season,2018-09-23,Package,Full_day,2018-08-05,1,Valle Silbador,Ridossan Hotel,WSP-19875,100,150.0
+Daily,Regular_season,2018-11-26,Online,Full_day,2019-01-22,1,Valle Silbador,False,WSP-19898,120,180.0
+Daily,Regular_season,2019-03-01,Online,Full_day,2019-02-27,1,Valle Silbador,False,WSP-19909,120,180.0
+Daily,Regular_season,2019-01-26,Package,Full_day,2019-03-17,1,Valle Silbador,Elton Hotel,WSP-19925,110,165.0
+Daily,Regular_season,2018-02-16,Package,Full_day,2018-03-20,1,Valle Silbador,Haiit Hotel,WSP-19933,105,157.5
+Daily,Regular_season,2018-03-27,On_site,Full_day,2018-03-22,1,Valle Silbador,False,WSP-19960,120,180.0
+Red HEROIC,Regular_season,2019-02-19,Red HEROIC,Full_day,2019-02-25,1,Ski Comanche,False,WSP-19968,140,210.0
+Daily,Regular_season,2018-12-08,Online,Half_day,2019-01-04,1,Valle Silbador,False,WSP-19979,120,180.0
+Daily,Regular_season,2017-12-11,Package,Full_day,2018-03-17,1,Valle Silbador,Ridossan Hotel,WSP-19981,100,150.0
+Daily,Regular_season,2018-01-21,Online,Half_day,2018-02-09,1,Valle Silbador,False,WSP-19996,120,180.0
