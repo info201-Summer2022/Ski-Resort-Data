@@ -34,7 +34,7 @@ num_outside <- nrow(filter(time_df, Bought_in == "Outside_season"))
 regular_prop <- num_regular / num_row
 outside_prop <- num_outside / num_row
 
-# Culculate number of people buying each type of resort tickets and their proportion.
+# Calculate number of people buying each type of resort tickets and their proportion.
 type_df <- select(data_df, "Type")
 different_type <- unique(type_df)
 num_season <- nrow(filter(type_df, Type == "Season"))
@@ -58,7 +58,7 @@ three_days <- nrow(filter(amount_days, Amount_of_days == "3"))
 two_days <- nrow(filter(amount_days, Amount_of_days == "2"))
 one_day <- nrow(filter(amount_days, Amount_of_days == "1"))
 
-# Culculate the mean difference between total price and selling price of each acquisition mode.
+# Calculate the mean difference between total price and selling price of each acquisition mode.
 package_df <- filter(data_df, Acquisition_mode == "Package")
 package_diff <- (sum(package_df$Total_price) - sum(package_df$Selling_price)) / num_package
 onsite_df <- filter(data_df, Acquisition_mode == "On_site")
