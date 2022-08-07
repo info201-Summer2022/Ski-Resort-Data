@@ -10,12 +10,12 @@ library(ggplot2)
 library(dplyr)
 library(stringr)
 
-# Read the dataset and culculate basic information.
+# Read the dataset and calculate basic information.
 data_df <- read.csv("Ski_resort.csv")
 num_row <- nrow(data_df)
 num_col <- ncol(data_df)
 
-# Culculate number of people buying resort tickest from each acquisition mode and their proportion.
+# Calculate number of people buying resort tickest from each acquisition mode and their proportion.
 num_mode <- length(unique(data_df$Acquisition_mode))
 num_package <- nrow(filter(data_df, str_detect(data_df$Acquisition_mode, fixed("package", ignore_case=TRUE))))
 num_onsite <- nrow(filter(data_df, str_detect(data_df$Acquisition_mode, fixed("on_site", ignore_case=TRUE))))
@@ -26,7 +26,7 @@ onsite_prop <- num_onsite / num_row
 online_prop <- num_online / num_row
 red_prop <- num_redheroic / num_row
 
-# Culculate number of people bought tickets in different season and their proportion.
+# Calculate number of people who bought tickets in different season and their proportion.
 time_df <- select(data_df, Bought_in)
 unique_time <- unique(time_df)
 num_regular <- nrow(filter(time_df, Bought_in == "Regular_season"))
