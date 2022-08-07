@@ -1,9 +1,9 @@
-# The purpose of this analysis was to culculate number of people who
+# The purpose of this analysis was to calculate number of people who
 # purchased resort tickets from different acquisition mode, 
 # purchased resort tickets at different time,
 # purchased different types of tickets,
-# and purchased tickets have different amout of days.
-# Also, we culculate the mean difference between total price and selling
+# and purchased tickets have different amount of days.
+# Also, we calculate the mean difference between total price and selling
 # price of each acquisition mode.
 
 library(ggplot2)
@@ -15,7 +15,7 @@ data_df <- read.csv("Ski_resort.csv")
 num_row <- nrow(data_df)
 num_col <- ncol(data_df)
 
-# Calculate number of people buying resort tickest from each acquisition mode and their proportion.
+# Calculate number of people buying resort tickets from each acquisition mode and their proportion.
 num_mode <- length(unique(data_df$Acquisition_mode))
 num_package <- nrow(filter(data_df, str_detect(data_df$Acquisition_mode, fixed("package", ignore_case=TRUE))))
 num_onsite <- nrow(filter(data_df, str_detect(data_df$Acquisition_mode, fixed("on_site", ignore_case=TRUE))))
