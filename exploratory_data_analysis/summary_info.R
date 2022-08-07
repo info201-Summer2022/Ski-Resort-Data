@@ -11,7 +11,8 @@ library(dplyr)
 library(stringr)
 
 # Read the dataset and calculate basic information.
-data_df <- read.csv("Ski_resort.csv")
+# Need to set working directory to github folder.
+data_df <- read.csv("data/Ski_resort.csv")
 num_row <- nrow(data_df)
 num_col <- ncol(data_df)
 
