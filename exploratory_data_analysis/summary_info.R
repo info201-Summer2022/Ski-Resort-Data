@@ -11,8 +11,7 @@ library(dplyr)
 library(stringr)
 
 # Read the dataset and calculate basic information.
-# Need to set working directory to github folder.
-data_df <- read.csv("data/Ski_resort.csv")
+data_df <- read.csv("Ski_resort.csv")
 num_row <- nrow(data_df)
 num_col <- ncol(data_df)
 
@@ -25,9 +24,9 @@ num_redheroic <- nrow(filter(data_df, str_detect(data_df$Acquisition_mode, fixed
 package_prop <- num_package / num_row
 onsite_prop <- num_onsite / num_row
 online_prop <- num_online / num_row
-red_prop <- num_redheroic / num_row
+redheroic_prop <- num_redheroic / num_row
 
-# Calculate number of people who bought tickets in different season and their proportion.
+# Calculate number of people bought tickets in different season and their proportion.
 time_df <- select(data_df, Bought_in)
 unique_time <- unique(time_df)
 num_regular <- nrow(filter(time_df, Bought_in == "Regular_season"))
@@ -45,7 +44,7 @@ season_prop <- num_season / num_row
 daily_prop <- num_daily / num_row
 red_prop <- num_red / num_row
 
-# Culculate number of people having different amount of days.
+# Calculate number of people having different amount of days.
 amount_days <- select(data_df, "Amount_of_days")
 unique_days <- unique(amount_days)
 unlimited_days <- nrow(filter(amount_days, Amount_of_days == "Unlimited"))
@@ -68,3 +67,13 @@ online_df <- filter(data_df, Acquisition_mode == "Online")
 online_diff <- (sum(online_df$Total_price) - sum(online_df$Selling_price)) / num_online
 redheroic_df <- filter(data_df, Acquisition_mode == "Red HEROIC")
 redheroic_diff <- (sum(redheroic_df$Total_price) - sum(redheroic_df$Selling_price)) / num_redheroic
+
+summary_info <- list(num_observations = num_row,
+                     num_features = num_col,
+                     types_of_bought_time = unique_time,
+                     types_of_tickets = different_type,
+                     different_amounts_of_days = unique_days,
+                     package_price_difference = package_diff,
+                     onsite_price_difference = onsite_diff,
+                     online_price_difference = online_diff,
+                     redheroic_price_difference = redheroic_diff)
