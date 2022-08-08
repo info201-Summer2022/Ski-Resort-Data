@@ -14,4 +14,12 @@ redheroic_df <- filter(data_df, Acquisition_mode == "Red HEROIC")
 redheroic_diff <- (sum(redheroic_df$Total_price) - sum(redheroic_df$Selling_price)) / num_redheroic
 
 data_plot <- c(package_diff, onsite_diff, online_diff, redheroic_diff)
-barplot(data_plot, main = "Mean Difference between Total Price and Selling Price of Each Acquisition Mode", xlab = "Acquisition Mode", ylab = "Difference", names.arg = c("Package", "On_site", "Online", "Red HEROIC"))
+barplot(data_plot, main = "Mean Difference between Total Price and Selling Price of Each Acquisition Mode", xlab = "Acquisition Mode", 
+        ylab = "Difference", names.arg = c("Package", "On_site", "Online", "Red HEROIC"))
+
+# I include this chart to the mean difference between total price and selling price for each acquisition mode strategy 
+# so as to know how does price discrimination works in our example for leading consumers' realization.
+
+# The observation of the chart indicates that the online ticket and onsite tickets are the most expensive ones in terms of price
+#changes on total price market, leading to our conclusion that it is much cost-effective for skaters to buy tickets through package
+#or through events.
