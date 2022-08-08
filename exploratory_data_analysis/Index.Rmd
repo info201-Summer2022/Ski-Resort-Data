@@ -13,13 +13,18 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Introduction
 
-With vicissitudes of times, people have been craving for doing outdoor activities for the recent years. With the start of Beijing Winter Olympic, more and more sports fans put their attention on skating, which made skating popular all around the globe this year. However, most people do not have a clear picture about the popularity of skating in the past. To have an understanding of the popularity of skating and people's attitudes on this sport, our group designed this exploratory data analysis, particularly on the topic of skating investigation.
+With vicissitudes of times, people have been craving for doing outdoor activities for the recent years. With the start of Beijing Winter Olympic, 
+more and more sports fans put their attention on skating, which made skating popular all around the globe this year. However, most people do not 
+have a clear picture about the popularity of skating in the past. To have an understanding of the popularity of skating and people's attitudes 
+on this sport, our group designed this exploratory data analysis, particularly on the topic of skating investigation.
 
-In this analysis, we will be introducing you to report summary of 5 important values we compute from the dataframe, summary table that expresses the statistical conclusions, and three charts respectively illustrate visualizations of statistics in data science.
+In this analysis, we will be introducing you to report summary of 5 important values we compute from the dataframe, summary table that expresses 
+the statistical conclusions, and three charts respectively illustrate visualizations of statistics in data science.
 
 # Summary
 
-Through our calculation in summary file of this project, we have acquired a deep understanding about the dataset "Ski_resort." With knowledge being learned in Info 201 class, we successfully harvested some important values being computed from the dataset.
+Through our calculation in summary file of this project, we have acquired a deep understanding about the dataset "Ski_resort." 
+With knowledge being learned in Info 201 class, we successfully harvested some important values being computed from the dataset.
 
 
 ```{r}
