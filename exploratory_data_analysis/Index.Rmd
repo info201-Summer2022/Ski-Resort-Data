@@ -1,0 +1,248 @@
+---
+title: "Exploratory Data Analysis"
+author: "Albert Wang, Amber Shi, Letitia Wang"
+output: html_document
+date: '2022-08-07'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+# Introduction
+
+With vicissitudes of times, people have been craving for doing outdoor activities for the recent years. With the start of Beijing Winter Olympic, more and more sports fans put their attention on skating, which made skating popular all around the globe this year. However, most people do not have a clear picture about the popularity of skating in the past. To have an understanding of the popularity of skating and people's attitudes on this sport, our group designed this exploratory data analysis, particularly on the topic of skating investigation.
+
+In this analysis, we will be introducing you to report summary of 5 important values we compute from the dataframe, summary table that expresses the statistical conclusions, and three charts respectively illustrate visualizations of statistics in data science.
+
+# Summary
+
+Through our calculation in summary file of this project, we have acquired a deep understanding about the dataset "Ski_resort." With knowledge being learned in Info 201 class, we successfully harvested some important values being computed from the dataset.
+
+
+```{r}
+# Having the Necessary Package Ready
+library(stringr)
+library(ggplot2)
+library(dplyr)
+library(data.table)
+data_df <- read.csv("Ski_resort.csv")
+# There are 906 rows in the dataframe.
+num_row <- nrow(data_df)
+# There are 12 columns in the dataframe.
+num_col <- ncol(data_df)
+```
+
+
+```{r}
+# Calculating the number of people buying resort tickets from each acquisition mode and their proportion.
+# There are 4 types of acquisition modes people have to know the sport event
+num_mode <- length(unique(data_df$Acquisition_mode))
+# There are 221 people choose "package" as acquisition mode
+num_package <- nrow(filter(data_df, str_detect(data_df$Acquisition_mode, fixed("package", ignore_case=TRUE))))
+# There are 70 people choose "onsite" as acquisition mode
+num_onsite <- nrow(filter(data_df, str_detect(data_df$Acquisition_mode, fixed("on_site", ignore_case=TRUE))))
+# There are 394 people choose "online" as acquisition mode
+num_online <- nrow(filter(data_df, str_detect(data_df$Acquisition_mode, fixed("online", ignore_case=TRUE))))
+# There are 221 people choose "red heroic" as acquisition mode
+num_redheroic <- nrow(filter(data_df, str_detect(data_df$Acquisition_mode, fixed("red heroic", ignore_case=TRUE))))
+# Around 24.39% people acquired tickets by package
+package_prop <- num_package / num_row
+# Around 7.7% people acquired tickets onsite
+onsite_prop <- num_onsite / num_row
+# Around 43.49% people acquired tickets online
+online_prop <- num_online / num_row
+# Around 24.39% people acquired tickets by red heroic.
+red_prop <- num_redheroic / num_row
+```
+
+
+```{r}
+# Calculate number of people who bought tickets in different season and their proportion.
+time_df <- select(data_df, Bought_in)
+unique_time <- unique(time_df)
+# There are 723 people bought tickets in regular season
+num_regular <- nrow(filter(time_df, Bought_in == "Regular_season"))
+# And the proportion is around 80%
+regular_prop <- num_regular / num_row
+# There are 183 people bought tickets out of the regular season
+num_outside <- nrow(filter(time_df, Bought_in == "Outside_season"))
+# And the proportion is around 20%
+outside_prop <- num_outside / num_row
+```
+
+
+```{r}
+# Calculate number of people buying each type of resort tickets and their proportion.
+type_df <- select(data_df, "Type")
+different_type <- unique(type_df)
+# There are 148 people buying season resort ticket
+num_season <- nrow(filter(type_df, Type == "Season"))
+# And the proportion is around 16.34%
+season_prop <- num_season / num_row
+# There are 537 people buying daily resort ticket
+num_daily <- nrow(filter(type_df, Type == "Daily"))
+# And the proportion is around 59.27%
+daily_prop <- num_daily / num_row
+# There are 221 people buying red resort ticket
+num_red <- nrow(filter(type_df, Type == "Red HEROIC"))
+# And the proportion is around 24.39%
+red_prop <- num_red / num_row
+```
+
+```{r}
+# Culculate number of people having different amount of days.
+amount_days <- select(data_df, "Amount_of_days")
+unique_days <- unique(amount_days)
+# There are 148 people having unlimited days.
+unlimited_days <- nrow(filter(amount_days, Amount_of_days == "Unlimited"))
+# There are 87 people having 9 days.
+nine_days <- nrow(filter(amount_days, Amount_of_days == "9"))
+# There are 81 people having 8 days.
+eight_days <- nrow(filter(amount_days, Amount_of_days == "8"))
+# There are 102 people having 7 days.
+seven_days <- nrow(filter(amount_days, Amount_of_days == "7"))
+# There are 82 people having 6 days.
+six_days <- nrow(filter(amount_days, Amount_of_days == "6"))
+# There are 86 people having 5 days.
+five_days <- nrow(filter(amount_days, Amount_of_days == "5"))
+# There are 69 people having 4 days.
+four_days <- nrow(filter(amount_days, Amount_of_days == "4"))
+# There are 76 people having 3 days.
+three_days <- nrow(filter(amount_days, Amount_of_days == "3"))
+# There are 83 people having 2 days.
+two_days <- nrow(filter(amount_days, Amount_of_days == "2"))
+# There are 92 people having 1 days.
+one_day <- nrow(filter(amount_days, Amount_of_days == "1"))
+```
+
+
+```{r}
+# Calculate the mean difference between total price and selling price of each acquisition mode.
+
+# The mean difference between total price and selling price on package is 416.75
+package_df <- filter(data_df, Acquisition_mode == "Package")
+package_diff <- (sum(package_df$Total_price) - sum(package_df$Selling_price)) / num_package
+# The mean difference between total price and selling price on onsite is 447.86
+onsite_df <- filter(data_df, Acquisition_mode == "On_site")
+onsite_diff <- (sum(onsite_df$Total_price) - sum(onsite_df$Selling_price)) / num_onsite
+# The mean difference between total price and selling price on online is 446.35
+online_df <- filter(data_df, Acquisition_mode == "Online")
+online_diff <- (sum(online_df$Total_price) - sum(online_df$Selling_price)) / num_online
+# The mean difference between total price and selling price on redheroic is 358.24
+redheroic_df <- filter(data_df, Acquisition_mode == "Red HEROIC")
+redheroic_diff <- (sum(redheroic_df$Total_price) - sum(redheroic_df$Selling_price)) / num_redheroic
+```
+
+
+```{r}
+# The Summary of List of Target Values
+summary_info <- list(num_observations = num_row,
+                     num_features = num_col,
+                     types_of_bought_time = unique_time,
+                     types_of_tickets = different_type,
+                     different_amounts_of_days = unique_days,
+                     package_price_difference = package_diff,
+                     onsite_price_difference = onsite_diff,
+                     online_price_difference = online_diff,
+                     redheroic_price_difference = redheroic_diff)
+```
+
+
+## Table and Observation
+```{r}
+
+# Table
+# read data and create data frame, need to change the working directory to github folder
+data_df <- read.csv("Ski_resort.csv")
+# select columns of interest
+new_data_df <- select(data_df, Type, Hotel)
+# group by
+df_grp <- new_data_df %>% group_by(Type) %>% summarise(live_in_hotel = sum(Hotel != "False"),
+                                                       not_live_in_hotel = sum(Hotel == "False"),
+                                                       .groups = 'drop')
+# add percentage column, to show the data more clearly
+df_grp <- df_grp %>% mutate(hotel_percentage = (live_in_hotel / (live_in_hotel+not_live_in_hotel)*100))
+df_grp[is.na(df_grp)] <- 0
+# sort by live_in_hotel_percentage, from high to low
+df_grp <- df_grp %>% arrange(-hotel_percentage)
+# create table
+table <- as.data.table(df_grp, TRUE)
+print(table)
+
+# Observation
+
+# The table is designed to analyze the relationship between ticket type and hotel preference to do corresponding promotion strategy by having a clear review on what ticket types skiers go with and whether they live in the hotel.
+
+# It is obvious that skiers who decide to go skating daily have the highest hotel-accommodation rate, while skiers who go skating on special event might have planned accommodation beforehand. Generally speaking, we can conclude that skiers with higher frequency on skating activities tend to live in hotel with higher chances.
+```
+
+
+## Clarifications and Observations on Charts
+
+
+```{r}
+# Chart 1: Pie Chart for Acquisition Mode for Ski Tickets
+
+# This chart was intended to show the percentage and occupation rate of each type of acquisition mode compared with the total range
+
+# The observation indicates that most skiers get tickets online, while the least skiers get tickets onsite, which means that currently, selling tickets on the Internet is still the most common way sellers would do with high efficiency of trade.
+
+data <- read.csv("ski_resort.csv")
+
+num_mode <- length(unique(data$Acquisition_mode))
+num_package <- nrow(filter(data, str_detect(data$Acquisition_mode, fixed("package", ignore_case=TRUE))))
+num_onsite <- nrow(filter(data, str_detect(data$Acquisition_mode, fixed("on_site", ignore_case=TRUE))))
+num_online <- nrow(filter(data, str_detect(data$Acquisition_mode, fixed("online", ignore_case=TRUE))))
+num_redheroic <- nrow(filter(data, str_detect(data$Acquisition_mode, fixed("red heroic", ignore_case=TRUE))))
+
+list <- c(num_package, num_onsite, num_online, num_redheroic)
+piepercent <- round(100*(list/nrow(data)),1)
+percentage <- paste(piepercent, "%")
+pie(piepercent, labels = percentage, main = "Acquisition mode of ski tickets", cex = 0.8, radius = 1, col = rainbow(4))
+legend("topright", c("package", "onsite", "online", "Red Heroic"), cex = 0.5, fill = rainbow(4))
+```
+
+
+```{r}
+# Chart 2: Bar Plot of Mean Difference between Total Price and Selling Price of Each Acquisition Mode
+
+# The Chart seeks for the mean difference between total price and selling price for each acquisition mode strategy so as to know how does price discrimination works in our example for leading consumers' realization
+
+# The observation of the chart indicates that the online ticket and onsite tickets are the most expensive ones in terms of price changes on total price market, leading to our conclusion that it is much cost-effective for skaters to buy tickets through package or through events.
+
+data_df <- read.csv("Ski_resort.csv")
+num_row <- nrow(data_df)
+
+package_df <- filter(data_df, Acquisition_mode == "Package")
+package_diff <- (sum(package_df$Total_price) - sum(package_df$Selling_price)) / num_package
+onsite_df <- filter(data_df, Acquisition_mode == "On_site")
+onsite_diff <- (sum(onsite_df$Total_price) - sum(onsite_df$Selling_price)) / num_onsite
+online_df <- filter(data_df, Acquisition_mode == "Online")
+online_diff <- (sum(online_df$Total_price) - sum(online_df$Selling_price)) / num_online
+redheroic_df <- filter(data_df, Acquisition_mode == "Red HEROIC")
+redheroic_diff <- (sum(redheroic_df$Total_price) - sum(redheroic_df$Selling_price)) / num_redheroic
+
+data_plot <- c(package_diff, onsite_diff, online_diff, redheroic_diff)
+barplot(data_plot, main = "Mean Difference between Total Price and Selling Price of Each Acquisition Mode", xlab = "Acquisition Mode", ylab = "Difference", names.arg = c("Package", "On_site", "Online", "Red HEROIC"))
+
+```
+
+
+```{r}
+# Chart 3: The Scatterplot of Comparison between Selling Price and Total Price
+
+# The chart seeks for the relationship between selling price and total price in order to show the audience what strategies the sellers would take when price market gets hit or boom.
+
+# The observation indicates fact that the sellers would not give up interests they could get for an exchange of higher skier population buying tickets, which means it is hard to see huge bump-ups for a particular strategy of tickets when the total ticket prices go up or go down.
+
+bought_in_df <- read.csv("Ski_resort.csv")
+
+ggplot(bought_in_df, aes(x=Selling_price, y=Total_price)) + 
+  geom_point(colour = 4) + 
+  labs(title = "Comparison between Selling Price and Total Price")
+
+```
+
