@@ -1,5 +1,3 @@
-
-
 acquisition_mode_time <- fluidPage(
   titlePanel("Acquisition Mode Stats in one time range"), # title
   tags$hr(),
