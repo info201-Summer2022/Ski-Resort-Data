@@ -175,6 +175,9 @@ ui <- navbarPage(
       .table.shiny-table>tbody{
         color: white;
       }
+      .table-condensed {
+        color: green;
+      }
       "))
   ),
   tabPanel("Acquisition Mode", acquisition_mode_time),
