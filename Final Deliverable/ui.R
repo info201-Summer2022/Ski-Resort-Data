@@ -1,5 +1,6 @@
 acquisition_mode_time <- fluidPage(
   titlePanel("Acquisition Mode Stats in one time range"), # title
+  tags$hr(),
   # sidebar layout
   sidebarLayout(
     sidebarPanel(
@@ -10,20 +11,25 @@ acquisition_mode_time <- fluidPage(
         end = "2019-04-01",
         min = "2017-04-05",
         max = "2019-04-01"
+      ),
+      tags$div(
+        class = "quote1",
+        tags$blockquote(
+          p("The pie chart shows acquisition mode percentage in one time range."),
+          p("You can choose any time range from 2017-04-05 to 2019-04-01.")
+        )
       )
     ),
     mainPanel(
       h3("Pie Chart"),
       plotOutput(outputId = "pie"),
-      p(""),
-      p("The pie chart shows acquisition mode percentage in one time range."),
-      p("You can select any time range from 2017-04-05 to 2019-04-01.")
     )
   )
 )
 
 selling_totalPrice <- fluidPage(
   titlePanel("Relationship between ticket type, selling, and total price"), # title
+  tags$hr(),
   # sidebar layout
   sidebarLayout(
     sidebarPanel(
@@ -33,19 +39,24 @@ selling_totalPrice <- fluidPage(
         choices = list("Season" = 1, "Red HEROIC" = 2, "Daily" = 3),
         selected = 1,
         multiple = FALSE
+      ),
+      tags$div(
+        class = "quote2",
+        tags$blockquote(
+          p("You can select ticket type from 'Season', 'Red HEROIC', and 'Daily', and see the relationship between selling price and total price."),
+        )
       )
     ),
     mainPanel(
       h3("Scatter plot with linear regression line"),
-      plotOutput(outputId = "linear_regression"),
-      p(""),
-      p("You can select ticket type from 'Season', 'Red HEROIC', and 'Daily', and see the relationship between selling price and total price.")
+      plotOutput(outputId = "linear_regression")
     )
   )
 )
 
 eu_ski_resort <- fluidPage(
   titlePanel("European Ski Resort Selector"), # title
+  tags$hr(),
   # sidebar layout
   sidebarLayout(
     sidebarPanel(
@@ -62,15 +73,19 @@ eu_ski_resort <- fluidPage(
         min = 0,
         max = 600,
         value = 150
+      ),
+      tags$div(
+        class = "quote3",
+        tags$blockquote(
+          p("* Each plot is a ski resort."),
+          p("You can select(brush) the resort you would like to explore. The detailed information of the ski resort(s) will be shown above.")
+        )
       )
     ),
     mainPanel(
       h3("Scatter Plot and Selector(brush)"),
       plotOutput(outputId = "euScatter", brush = "plot_brush"),
       tableOutput(outputId = "euResort"),
-      p(""),
-      p("* Each plot is a ski resort."),
-      p("You can select the resort you would like to explore. The detailed information of the ski resort(s) will be shown above.")
     )
   )
 )
