@@ -13,7 +13,9 @@ introduction <- fluidPage(
     br(),
     p("In the analysis, calculated data includes proportion of people buying tickets from four
       ways, price differences among aquisition mode, and proportion of choices of skiing in
-      which country. We hope that this information can help people interested in skiing.")
+      which country. We hope that this information can help people interested in skiing."),
+    br(),
+    p("Data used in analysis is from kaggle. https://www.kaggle.com/datasets/agustinpugliese/ski-resort-data")
   ),
   img(src=b64) 
 )
