@@ -2,6 +2,7 @@ b64 <- base64enc::dataURI(file="skiing.png", mime="image/png")
 
 introduction <- fluidPage(
   titlePanel("Introduction of Analysis"),
+  tags$hr(),
   mainPanel(
     p("This is an analysis about ski resorts.
       The data focused on Europeans' choices about where to ski and how they buy resort tickets.
@@ -116,7 +117,7 @@ Summary <- tabPanel(
   titlePanel("Summary Information"),
   mainPanel(
     h1("Takeaways from the Project"),
-    br(),
+    tags$hr(),
     h3("Chart 1：Pie Chart for Acquisition Mode"),
     p('Takeaway: It is the most popular way for skiers to buytickets from the Internet which indicates 
     that for new skiers, it is best for them to buy tickets online since there are clear instructions 
@@ -150,9 +151,6 @@ Summary <- tabPanel(
     plotOutput(outputId = "result")
   )
 )
-
-
-
 
 
 
