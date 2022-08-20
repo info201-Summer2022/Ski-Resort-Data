@@ -1,3 +1,20 @@
+introduction <- fluidPage(
+  titlePanel("Introduction of Analysis"),
+  mainPanel(
+    p("This is an analysis about ski resorts.
+      The data focused on Europeans' choices about where to ski and how they buy resort tickets.
+      People interested in but unfamiliar with skiing may doubt that which resort is better or where
+      can I buy tickests of resorts.
+      Also, different ways of buying tickets can lead to different prices.
+      In that way, this analysis aims to help people to choose better places to ski and better ways
+      of buying tickets."),
+    br(),
+    p("In the analysis, calculated data includes proportion of people buying tickets from four
+      ways, price differences among aquisition mode, and proportion of choices of skiing in
+      which country. We hope that this information can help people interested in skiing.")
+  )
+)
+
 acquisition_mode_time <- fluidPage(
   titlePanel("Acquisition Mode Stats in one time range"), # title
   tags$hr(),
@@ -180,6 +197,7 @@ ui <- navbarPage(
       }
       "))
   ),
+  tabPanel("Introduction of Analysis", introduction),
   tabPanel("Acquisition Mode", acquisition_mode_time),
   tabPanel("Selling price and Total price", selling_totalPrice),
   tabPanel("European Ski Resort", eu_ski_resort),
