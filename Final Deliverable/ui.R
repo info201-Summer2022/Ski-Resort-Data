@@ -1,3 +1,5 @@
+b64 <- base64enc::dataURI(file="skiing.png", mime="image/png")
+
 introduction <- fluidPage(
   titlePanel("Introduction of Analysis"),
   mainPanel(
@@ -12,7 +14,8 @@ introduction <- fluidPage(
     p("In the analysis, calculated data includes proportion of people buying tickets from four
       ways, price differences among aquisition mode, and proportion of choices of skiing in
       which country. We hope that this information can help people interested in skiing.")
-  )
+  ),
+  img(src=b64) 
 )
 
 acquisition_mode_time <- fluidPage(
