@@ -40,7 +40,7 @@ server <- function(input, output){
       type_selected = "Daily"
     }
     filter_df <- filter(ski_df, Type == type_selected)
-    ggplot(filter_df, aes(x = Selling_price, y = Total_price)) + geom_point() + xlab("Selling price") + ylab("Total Price") + labs(title = "Relationship between Selling price and Total pice") + geom_smooth(method=lm, color = "blue", se = FALSE) + theme_ipsum() + theme(axis.title = element_text(size = 10), plot.title = element_text(size = 13, hjust = 0.5))  
+    ggplot(filter_df, aes(x = Selling_price, y = Total_price)) + geom_point() + xlab("Selling price") + ylab("Total Price") + labs(title = "Relationship between Selling price and Total pice") + geom_smooth(method=lm, color = "blue", se = FALSE) + theme(axis.title = element_text(size = 10), plot.title = element_text(size = 13, hjust = 0.5))  
   })
   
   output$scatterplot <- renderPlot({
